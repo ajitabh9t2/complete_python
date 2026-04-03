@@ -1,0 +1,636 @@
+Ingredient Name,Unit of Measurement,Purchase Unit,Conversion Factor,Cost Per Unit,Category,Description,Minimum Stock Level,Current Stock,Storage Temperature,Is Perishable,Shelf Life Days,Brand,Active,Available
+MILK ,Liter ,Liter ,1000,48,Dairy,,,,Room Temperature,TRUE,,SARAS ,TRUE,TRUE
+MILK TETRA ,Liter ,Liter ,1000,70.29,Dairy,,84,,Room Temperature,FALSE,,AMUL ,TRUE,TRUE
+CREAM ,Liter ,Liter ,1000,212.21,Dairy,,2.5,,Room Temperature,FALSE,,AMUL ,TRUE,TRUE
+BUTTER ,Kg ,Kg ,500 ,257.5,Dairy,,5,,Room Temperature,FALSE,,AMUL ,TRUE,TRUE
+MOZRELLA CHEESE ,Kg ,Kg ,1000,501,Dairy,,,,Room Temperature,FALSE,,,TRUE,TRUE
+PANEER JAIN,Kg ,Kg ,1000,360,Dairy,,,,Room Temperature,FALSE,,,TRUE,TRUE
+PANEER BARMER,Kg ,Kg ,1000,200,Dairy,,,,Room Temperature,FALSE,,,TRUE,TRUE
+BREAD ,Kg ,Kg ,500 ,34,Dairy,,,,Room Temperature,FALSE,,,TRUE,TRUE
+BREAD ,Kg ,Kg ,900 ,33,Dairy,,,,Room Temperature,FALSE,,SUPER,TRUE,TRUE
+BROWN BREAD ,Kg ,Kg ,500 ,40,Dairy,,,,Room Temperature,FALSE,,,TRUE,TRUE
+ICE CREAM BUTTER SCOTCH ,Liter ,Liter ,5000,584,Dairy,,,,Room Temperature,FALSE,,VADILAL ,TRUE,TRUE
+ICE CREAM VANILLA ,Liter ,Liter ,5000,519,Dairy,,,,Room Temperature,FALSE,,VADILAL ,TRUE,TRUE
+ICE CREAM STRAWBERRY ,Liter ,Liter ,5000,536,Dairy,,,,Room Temperature,FALSE,,VADILAL ,TRUE,TRUE
+ICE CREAM CHOCOLATE ,Liter ,Liter ,5000,744,Dairy,,,,Room Temperature,FALSE,,VADILAL ,TRUE,TRUE
+ICE CREAM AMERICAN,Liter ,Liter ,5000,739,Dairy,,,,Room Temperature,FALSE,,VADILAL ,TRUE,TRUE
+ ICE CREAM FAMILY PACK ,Packet,PACKET,700 ,287,Dairy,,,,Room Temperature,FALSE,,VADILAL ,TRUE,TRUE
+CHEESE ,Kg ,Kg ,1000,505,Dairy,,,,Room Temperature,FALSE,,AMUL ,TRUE,TRUE
+LASSI ,bottle,bottle,200 ,17.57,Dairy,,,,Room Temperature,FALSE,,AMUL ,TRUE,TRUE
+BUTTER MILK ,bottle,bottle,150 ,13.8,Dairy,,,,Room Temperature,FALSE,,AMUL ,TRUE,TRUE
+COOL ,bottle,bottle,180 ,21.8,Dairy,,,,Room Temperature,FALSE,,AMUL ,TRUE,TRUE
+CHEESE SLICE,Packet,PACKET,200 ,129.41,Dairy,,,,Room Temperature,FALSE,,AMUL ,TRUE,TRUE
+EGG,piece,PIECE,50 G,4.93,Meat,,,,Room Temperature,FALSE,,,TRUE,TRUE
+CHICKEN ,Kg ,Kg ,1000,172,Meat,,,,Room Temperature,FALSE,,,TRUE,TRUE
+FISH FUNGUS ,Kg ,Kg ,1000,120,Meat,,,,Room Temperature,FALSE,,,TRUE,TRUE
+FISH BASA,Kg ,Kg ,1000,252,Meat,,,,Room Temperature,FALSE,,,TRUE,TRUE
+FISH ROHU ,Kg ,Kg ,1000,160,Meat,,,,Room Temperature,FALSE,,,TRUE,TRUE
+PRAWNS FISH ,Kg ,Kg ,1000,1210,Meat,,,,Room Temperature,FALSE,,,TRUE,TRUE
+MUTTON FRESH ,Kg ,Kg ,1000,210,Meat,,,,Room Temperature,FALSE,,,TRUE,TRUE
+MUTTON CURRY CUT ,Kg ,Kg ,1000,500,Meat,,,,Room Temperature,FALSE,,,TRUE,TRUE
+CHICKEN SAUCE ,Kg ,Kg ,1000,500,Meat,,,,Room Temperature,FALSE,,,TRUE,TRUE
+TUNA FISH - IN BRINE ,Liter ,TIN,180 ,125,Meat,,,,Room Temperature,FALSE,,GOLDEN CROWN ,TRUE,TRUE
+ATTA WHEAT ,Kg ,Kg ,30,33.4,Other,,280,,Room Temperature,FALSE,,TAPARIA ,TRUE,TRUE
+MAIDA ,Kg ,Kg ,45,35,Other,,18,,Room Temperature,FALSE,,TAPARIA ,TRUE,TRUE
+BESAN ,Kg ,Kg ,1000,90,Other,,15,,Room Temperature,FALSE,,TAPARIA ,TRUE,TRUE
+BESAN ,Kg ,Kg ,1000,94.5,Other,,,,Room Temperature,FALSE,,TAPARIA ,TRUE,TRUE
+CORN Others,Kg ,Kg ,1000,60,Other,,2,,Room Temperature,FALSE,,,TRUE,TRUE
+ATTA 00 PIZA FLOUR,Kg ,Kg ,1000,135,Other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+"MANGO,APPLE",Liter ,Liter ,1000,86.25,Beverages,,,,Room Temperature,FALSE,,REAL FRUIT JUICE ,TRUE,TRUE
+"PINEAPPLE, MIX, ORANGE",Liter ,Liter ,1000,97.49,Beverages,,,,Room Temperature,FALSE,,REAL FRUIT JUICE ,TRUE,TRUE
+GUAVA ,Liter ,Liter ,1000,90,Beverages,,,,Room Temperature,FALSE,,REAL FRUIT JUICE ,TRUE,TRUE
+MIX FRUIT JUICE ,Liter ,Liter ,1200,66.66,Beverages,,,,Room Temperature,FALSE,,,TRUE,TRUE
+MIX FRUIT JUICE ,Liter ,Liter ,600 ,31.79,Beverages,,,,Room Temperature,FALSE,,PAPER BOAT ,TRUE,TRUE
+JUICE  125 ML,Liter ,Liter ,125 ,8.67,Beverages,,600,,Room Temperature,FALSE,,PAPER BOAT ,TRUE,TRUE
+MANGO JUICE ,Liter ,Liter ,125 ,8.67,Beverages,,,,Room Temperature,FALSE,,MAAZA ,TRUE,TRUE
+COLD DRINK ,bottle,bottle,2500,92.22,Beverages,,,,Room Temperature,FALSE,,COCA COLA ,TRUE,TRUE
+COLD DRINK ,bottle,bottle,1000,75.55,Beverages,,,,Room Temperature,FALSE,,COCA COLA ,TRUE,TRUE
+COLD DRINK ,bottle,bottle,250 ,18.21,Beverages,,,,Room Temperature,FALSE,,COCA COLA ,TRUE,TRUE
+SODA ,bottle,bottle,750 ,15,Beverages,,,,Room Temperature,FALSE,,KINLEY ,TRUE,TRUE
+SODA ,bottle,bottle,300 ,9.17,Beverages,,,,Room Temperature,FALSE,,PEPSI,TRUE,TRUE
+WATER MINERAL,bottle,bottle,1000,9.16,Beverages,,,,Room Temperature,FALSE,,BISLERI ,TRUE,TRUE
+ WATER MINERAL,bottle,bottle,500 ,6.66,Beverages,,,,Room Temperature,FALSE,,BISLERI ,TRUE,TRUE
+ WATER MINERAL,bottle,bottle,250 ,5,Beverages,,,,Room Temperature,FALSE,,BISLERI ,TRUE,TRUE
+BISCUIT RS 5,Packet,PACKET ,1,4.54,Beverages,,,,Room Temperature,FALSE,,,TRUE,TRUE
+BISCUIT RS 10,Packet,PACKET ,1,8.6,Beverages,,,,Room Temperature,FALSE,,,TRUE,TRUE
+NAMKEEN RS 5,Packet,PACKET ,1,3.95,Beverages,,,,Room Temperature,FALSE,,,TRUE,TRUE
+NAMKEEN RS 10,Packet,PACKET ,1,7.55,Beverages,,,,Room Temperature,FALSE,,,TRUE,TRUE
+MUESLI ,Packet,PACKET ,1000,602,Beverages,,,,Room Temperature,FALSE,,TATA ,TRUE,TRUE
+LAYS ,Packet,PACKET ,1,9,Beverages,,,,Room Temperature,FALSE,,,TRUE,TRUE
+KURKURE ,Packet,PACKET ,1,9,Beverages,,,,Room Temperature,FALSE,,,TRUE,TRUE
+NAMKEEN,Packet,PACKET ,400 ,90,Beverages,,,,Room Temperature,FALSE,,,TRUE,TRUE
+BISCUIT RS 25 ,Packet,PACKET ,1,19,Beverages,,,,Room Temperature,FALSE,,,TRUE,TRUE
+JEERA  DRINK,bottle,bottle,1,8.67,Beverages,,,,Room Temperature,FALSE,,,TRUE,TRUE
+MUESLI ,Packet,PACKET ,500 ,313,Beverages,,8,,Room Temperature,FALSE,,BAGRRY'S,TRUE,TRUE
+COCA COLA,can,can,300 ,40,Beverages,,,,Room Temperature,FALSE,,COKE,TRUE,TRUE
+RED BULL ENERGY DRINK,can,can,1,92.62,Beverages,,,,Room Temperature,FALSE,,,TRUE,TRUE
+TONIC WATER,can,can,1,46.62,Beverages,,,,Room Temperature,FALSE,,,TRUE,TRUE
+KHUSH SHARBAT,bottle,bottle,1000,227,Beverages,,,,Room Temperature,FALSE,,,TRUE,TRUE
+ROSE MARRY,Packet,PACKET,250 ,180,Beverages,,,,Room Temperature,FALSE,0,,TRUE,TRUE
+ROSE SHARBAT,bottle,bottle,1000,312,Beverages,,,,Room Temperature,FALSE,0,,TRUE,TRUE
+THANDAI,bottle,bottle,1000,345,Beverages,,,,Room Temperature,FALSE,,,TRUE,TRUE
+KITCHEN KING ,Packet,PACKET ,100 ,63.65,Spices,,14,,Room Temperature,FALSE,,TATA ,TRUE,TRUE
+CHOLE MASALA ,Packet,PACKET ,100 ,62.31,Spices,,2,,Room Temperature,FALSE,,TATA ,TRUE,TRUE
+CHAT MASALA ,Packet,PACKET ,100 ,60.3,Spices,,3,,Room Temperature,FALSE,,TATA ,TRUE,TRUE
+MEAT MASALA ,Packet,PACKET ,100 ,65,Spices,,2,,Room Temperature,FALSE,,TATA ,TRUE,TRUE
+CHICKEN MASALA ,Packet,PACKET ,100 ,65,Spices,,5,,Room Temperature,FALSE,,TATA ,TRUE,TRUE
+SALT ,Packet,PACKET ,1   ,25,Spices,,,,Room Temperature,FALSE,,TATA ,TRUE,TRUE
+SALT ,Packet,PACKET ,1   ,13.7,Spices,,14,,Room Temperature,FALSE,,NIRMA ,TRUE,TRUE
+SALT ,Packet,PACKET ,1   ,6.64,Spices,,,,Room Temperature,FALSE,,TAPARIA ,TRUE,TRUE
+SALT SANDHA,Packet,PACKET,1   ,34,Spices,,,,Room Temperature,FALSE,,,TRUE,TRUE
+BRIYANI MASALA ,Packet,PACKET ,50  ,61,Spices,,1,,Room Temperature,FALSE,,CATCH ,TRUE,TRUE
+TEA MASALA ,Packet,PACKET ,50  ,49,Spices,,,,Room Temperature,FALSE,,CATCH ,TRUE,TRUE
+HING ,bottle,bottle,100 ,188,Spices,,3,,Room Temperature,FALSE,,CATCH ,TRUE,TRUE
+KASHMIRI LAL RED CHILLI POWDER ,Kg ,Kg ,1000,640,Spices,,3,,Room Temperature,FALSE,,CATCH ,TRUE,TRUE
+RAJMA MASALA ,Packet,PACKET ,100 ,64,Spices,,1,,Room Temperature,FALSE,,CATCH ,TRUE,TRUE
+SAMBHAR MASALA ,Packet,PACKET ,100 ,88,Spices,,3,,Room Temperature,FALSE,,CATCH ,TRUE,TRUE
+PAV BHAJI MASALA ,Packet,PACKET ,100 ,75,Spices,,,,Room Temperature,FALSE,,CATCH ,TRUE,TRUE
+WHITE PEPPER MASALA ,Kg ,Kg ,1000,1500,Spices,,,,Room Temperature,FALSE,,CATCH ,TRUE,TRUE
+RASAM MASALA ,Packet,PACKET ,100 ,57,Spices,,,,Room Temperature,FALSE,,FLAVARICH ,TRUE,TRUE
+KASTURI METHI ,Packet,PACKET ,100 ,44,Spices,,4,,Room Temperature,FALSE,,PUNEET MASALA ,TRUE,TRUE
+PANI PURI MASALA ,Kg ,Kg ,100 ,67,Spices,,,,Room Temperature,FALSE,,AMAZING ,TRUE,TRUE
+JEERA  ,Kg ,Kg ,1000,241,Spices,,3,,Room Temperature,FALSE,,,TRUE,TRUE
+SALT WHITE POUCH  250,Packet,PACKET ,250G,50,Spices,,,,Room Temperature,FALSE,,,TRUE,TRUE
+SALT BLACK POUCH 250 ,Packet,PACKET ,250G,160,Spices,,,,Room Temperature,FALSE,,,TRUE,TRUE
+METHI SABUT ,Kg ,Kg ,1000,94,Spices,,0.2,,Room Temperature,FALSE,,,TRUE,TRUE
+RAI ,Kg ,Kg ,1000,75.6,Spices,,0.5,,Room Temperature,FALSE,,,TRUE,TRUE
+AMCHUR ,Kg ,Kg ,1000,150,Spices,,,,Room Temperature,FALSE,,,TRUE,TRUE
+HALDI POWDER ,Kg ,Kg ,1000,208,Spices,,4,,Room Temperature,FALSE,,,TRUE,TRUE
+RED CHILLI POWDER ,Kg ,Kg ,1000,194,Spices,,4,,Room Temperature,FALSE,,,TRUE,TRUE
+DHANIA POWDER ,Kg ,Kg ,1000,134,Spices,,4,,Room Temperature,FALSE,,,TRUE,TRUE
+RED CHILLI SABUT ,Kg ,Kg ,1000,169,Spices,,0.5,,Room Temperature,FALSE,,,TRUE,TRUE
+DHANIA SABUT ,Kg ,Kg ,1000,93,Spices,,0.5,,Room Temperature,FALSE,,,TRUE,TRUE
+BLACK PEPPER ,Kg ,Kg ,1000,360,Spices,,,,Room Temperature,FALSE,,,TRUE,TRUE
+DAL CHINI ,Kg ,Kg ,1000,260,Spices,,,,Room Temperature,FALSE,,,TRUE,TRUE
+ELACHI BIG ,Kg ,Kg ,1000,1950,Spices,,,,Room Temperature,FALSE,,,TRUE,TRUE
+STAR PHOOL ,Kg ,Kg ,1000,380,Spices,,,,Room Temperature,FALSE,,,TRUE,TRUE
+TEZ PATA ,Kg ,Kg ,1000,100,Spices,,,,Room Temperature,FALSE,,,TRUE,TRUE
+ELACHI HARI ,Kg ,Kg ,1000,3200,Spices,,0.1,,Room Temperature,FALSE,,,TRUE,TRUE
+KALONJI,Kg,Kg,1000,266.77,Spices,,,,Room Temperature,FALSE,,,TRUE,TRUE
+LONG,Kg,Kg,1000,780,Spices,,,,Room Temperature,FALSE,,,TRUE,TRUE
+JAVETRI,Kg,Kg,1000,1872,Spices,,,,Room Temperature,FALSE,,,TRUE,TRUE
+BLACK SALT ,Kg ,Kg ,1000,30,Spices,,1,,Room Temperature,FALSE,,,TRUE,TRUE
+KHADA MASALA ,Kg ,Kg ,1000,1256,Spices,,0.5,,Room Temperature,FALSE,,,TRUE,TRUE
+AROMAT SEASONING POWDER,Packet,PACKET,500 ,215,Spices,,,,Room Temperature,FALSE,,KNORR,TRUE,TRUE
+BILECHING POWDER,Packet,PACKET,1000,32.06,Spices,,2,,Room Temperature,FALSE,,,TRUE,TRUE
+PERI PERI MASALA,Packet,PACKET,100 ,150,Spices,,,,Room Temperature,FALSE,,,TRUE,TRUE
+SUGAR LOOSE ,Kg ,Kg ,1000,43.5,Other,,84,,Room Temperature,FALSE,,,TRUE,TRUE
+SUGAR CANDY ,Kg ,Kg ,1000,54,Other,,1,,Room Temperature,FALSE,,,TRUE,TRUE
+SUGAR CUBE ,Kg ,Kg ,500 ,48,Other,,,,Room Temperature,FALSE,,DAURALA ,TRUE,TRUE
+SUGAR FREE,Packet,PACKET,.75 ,100,Other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+STAFF RICE ,Kg ,Kg ,1000,36,Grains,,,,Room Temperature,FALSE,,,TRUE,TRUE
+BRIYANI RICE 48 NO.,Kg ,Kg ,1000,64.5,Grains,,9,,Room Temperature,FALSE,,AMEENA ,TRUE,TRUE
+BRIYANI RICE 52 NO.,Kg,Kg,1000,67.74,Grains,,,,Room Temperature,FALSE,,,TRUE,TRUE
+GUEST RICE ,Kg ,Kg ,1000,43,Grains,,98,,Room Temperature,FALSE,,JEEBA ,TRUE,TRUE
+DOSA KANI ,Kg ,Kg ,1000,35,Grains,,,,Room Temperature,FALSE,,JEEBA ,TRUE,TRUE
+DAWAT RICE ,Kg,Kg,1000,99.75,Grains,,,,Room Temperature,FALSE,,JASAL A ONE ,TRUE,TRUE
+BRIYANI RICE  ,Kg,Kg,1000,68.5,Grains,,,,Room Temperature,FALSE,,INDIA GATE ,TRUE,TRUE
+REGULAR CHOICE RICE ,Kg,Kg,1000,74.2,Grains,,,,Room Temperature,FALSE,,INDIA GATE ,TRUE,TRUE
+MUSHROOM BUTTON ,Liter ,TIN ,800 ,86.45,canned,,13,,Room Temperature,FALSE,,FRUTINS,TRUE,TRUE
+MUSHROOM SLICE ,Liter ,TIN ,800 ,58.3,canned,,7,,Room Temperature,FALSE,,FRUTINS,TRUE,TRUE
+PINEAPPLE SLICE ,Liter ,TIN,840 ,85.87,canned,,,,Room Temperature,FALSE,,FRUTINS,TRUE,TRUE
+FRUIT COCKTAIL ,Liter ,TIN,840 ,85.87,canned,,3,,Room Temperature,FALSE,,FRUTINS,TRUE,TRUE
+TOMATO PUREE,Liter ,TIN,825 ,47.83,canned,,,,Room Temperature,FALSE,,FRUTINS,TRUE,TRUE
+RED CHEERIES ,Liter ,TIN,830 ,107.8,canned,,,,Room Temperature,FALSE,,FRUTINS,TRUE,TRUE
+BABY CORN,Liter ,TIN,400 ,47.11,canned,,,,Room Temperature,FALSE,,FRUTINS,TRUE,TRUE
+COCONUT MILK ,Liter ,TIN,400 ,155,canned,,,,Room Temperature,FALSE,,FRUTINS,TRUE,TRUE
+BAMBOO SHOOT,Liter ,TIN,800 ,77,canned,,,,Room Temperature,FALSE,,FRUTINS,TRUE,TRUE
+SWEET CORN CREAM STYLE ,Liter ,TIN,440 ,29.33,canned,,,,Room Temperature,FALSE,,FRUTINS,TRUE,TRUE
+CHIPO.PAPEER IN ADOBA SAUCE2.8,Liter ,TIN ,2800,2156,canned,,,,Room Temperature,FALSE,,,TRUE,TRUE
+RED CHERRIES SYRUP,Liter ,TIN ,830 ,91.65,canned,,,,Room Temperature,FALSE,,,TRUE,TRUE
+GREEN CHILLI SAUCE,bottle,bottle,680 ,45,Condiments,,,,Room Temperature,FALSE,,CHINGH,TRUE,TRUE
+RED CHILLI SAUCE,bottle,bottle,680 ,45,Condiments,,,,Room Temperature,FALSE,,CHINGH,TRUE,TRUE
+SOYA SAUCE  ,bottle,bottle,750 ,45,Condiments,,,,Room Temperature,FALSE,,CHINGH,TRUE,TRUE
+GREEN CHILLI SAUCE  ,bottle,bottle,4500,235,Condiments,,0.6,,Room Temperature,FALSE,,EVERPLUS ,TRUE,TRUE
+RED CHILLI SAUCE  ,bottle,bottle,4500,235,Condiments,,0.6,,Room Temperature,FALSE,,EVERPLUS ,TRUE,TRUE
+TOMYOM SAUCE,bottle,bottle,1000,470,Condiments,,2,,Room Temperature,FALSE,,,TRUE,TRUE
+SOYA SAUCE  ,bottle,bottle,5000,235,Condiments,,0.5,,Room Temperature,FALSE,,EVERPLUS ,TRUE,TRUE
+BARBECUS SAUCE,bottle,bottle,510 ,229.41,Condiments,,,,Room Temperature,FALSE,,,TRUE,TRUE
+WORSTERD SAUCE,bottle,bottle,750 ,51.41,Condiments,,,,Room Temperature,FALSE,,,TRUE,TRUE
+MIX PICKLE ,bottle,bottle,5000,245,Condiments,,1,,Room Temperature,FALSE,,EVERPLUS ,TRUE,TRUE
+MIX JAM ,bottle,bottle,4500,350,Condiments,,1,,Room Temperature,FALSE,,EVERPLUS ,TRUE,TRUE
+TOMATO KETCHUP ,bottle,bottle,1200,82,Condiments,,,,Room Temperature,FALSE,,DR OETKER ,TRUE,TRUE
+TOMATO KETCHUP ,Packet,PACKET,2000,190,Condiments,,,,Room Temperature,FALSE,,KISHAN,TRUE,TRUE
+TOMATO KETCHUP,Packet,PACKET,5000,230,Condiments,,,,Room Temperature,FALSE,,,TRUE,TRUE
+TOMATO KETCHUP POUCS,Packet,PACKET,100 ,65,Condiments,,,,Room Temperature,FALSE,,,TRUE,TRUE
+MIX PICKLE ,bottle,bottle,950 ,114,Condiments,,2,,Room Temperature,FALSE,,EVEREST ,TRUE,TRUE
+GREEN CHILLI PICKLE ,bottle,bottle,950 ,170,Condiments,,2,,Room Temperature,FALSE,,EVEREST ,TRUE,TRUE
+8 TO 8 SAUCE ,bottle,bottle,200 ,80,Condiments,,,,Room Temperature,FALSE,,GOLDEN CROWN ,TRUE,TRUE
+PERI PERI MAYO VIBA,Packet,PACKET,1000,185,Condiments,,,,Room Temperature,FALSE,,,TRUE,TRUE
+TANDOORI MAYONISE CREAM,Packet,PACKET,1000,190,Condiments,,,,Room Temperature,FALSE,,,TRUE,TRUE
+MAYONISE CREAM ,Packet,PACKET ,1000,100,Condiments,,,,Room Temperature,FALSE,,DR OETKER ,TRUE,TRUE
+OYSTER SAUCE ,bottle,bottle,510 ,225,Condiments,,,,Room Temperature,FALSE,,LEE KUM KEE ,TRUE,TRUE
+MUSTARD SAUCE ,bottle,bottle,1000,125,Condiments,,,,Room Temperature,FALSE,,GOLDEN CROWN ,TRUE,TRUE
+VEG WORCESTER SHIRE SAUCE ,bottle,bottle,200 ,48.75,Condiments,,,,Room Temperature,FALSE,,,TRUE,TRUE
+H P SAUCE ,bottle,bottle,200 ,205,Condiments,,,,Room Temperature,FALSE,,,TRUE,TRUE
+PICKLE MIXED VEGETABLE ,bottle,bottle,300 ,110,Condiments,,,,Room Temperature,FALSE,,PRIYA ,TRUE,TRUE
+GREEN CHILLI PICKLE ,bottle,bottle,500 ,130,Condiments,,,,Room Temperature,FALSE,,KHTARIJI ,TRUE,TRUE
+MIX FRUIT JAM ,bottle,bottle,1000,105,Condiments,,,,Room Temperature,FALSE,,,TRUE,TRUE
+MIXED VEGETABLE PICKLE ,bottle,bottle,300 ,93.49,Condiments,,,,Room Temperature,FALSE,,PRIYA ,TRUE,TRUE
+BARBECUE SAUCE,bottle,bottle,510 ,243,Condiments,,,,Room Temperature,FALSE,,GOLDEN CROWN,TRUE,TRUE
+NACHOSE CHIPS,Packet,PACKET,200G,79.79,Condiments,,,,Room Temperature,FALSE,,,TRUE,TRUE
+NIMBOO SAT,Packet,PACKET,1000,216.52,Condiments,,,,Room Temperature,FALSE,,,TRUE,TRUE
+OYESTER SAUCE,bottle,bottle,750 ,222,Condiments,,,,Room Temperature,FALSE,,,TRUE,TRUE
+PIZA PISTA SAUCE,bottle,bottle,1000,155,Condiments,,,,Room Temperature,FALSE,,,TRUE,TRUE
+PINEAPPLE  ,bottle,bottle,1000,196,Other,,1,,Room Temperature,FALSE,,,TRUE,TRUE
+BANANA CRUSH,bottle,bottle,1,201,Other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+BLUE CURACO CURSH,bottle,bottle,1,276.75,Other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+GUAVA CRUSH ,bottle,bottle,750 ,155.79,Other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+KIVI CRUSH,bottle,bottle,1000,332,Other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+KOKAM CRUSH,bottle,bottle,750 ,193.75,Other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+MANGO CRUSH,bottle,bottle,750 ,186,Other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+STRAWVERRY CRUSH,bottle,bottle,750 ,184.5,Other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+LITCHI CRUSH 1LTR 240/-,bottle,bottle,1000,196,Other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+REFINED OIL ,Liter ,TIN ,1500,1900,Oils,,7,,Room Temperature,FALSE,,BEST CHOICE ,TRUE,TRUE
+MUSSTARD OIL ,bottle,bottle,1000,166,Oils,,2,,Room Temperature,FALSE,,ENGINE ,TRUE,TRUE
+OLIVE OIL  ,bottle,bottle,1000,725,Oils,,,,Room Temperature,FALSE,,BASSO ,TRUE,TRUE
+GREEN OLIVE OIL ,bottle,bottle,420 ,200,Oils,,,,Room Temperature,FALSE,,FIGARO ,TRUE,TRUE
+BLACK OLIVE OIL ,bottle,bottle,420 ,200,Oils,,,,Room Temperature,FALSE,,FIGARO ,TRUE,TRUE
+SALAD OIL,bottle,bottle,50 M,122.7,Oils,,,,Room Temperature,FALSE,,,TRUE,TRUE
+GULAB JAL ,bottle,bottle,500 ,65,other,,,,Room Temperature,FALSE,,GOLDEN CROWN ,TRUE,TRUE
+GULAB JAL ,bottle,bottle,1000,90,other,,,,Room Temperature,FALSE,,GOLDEN CROWN ,TRUE,TRUE
+GULAB JAL ,bottle,bottle,250 ,45,other,,,,Room Temperature,FALSE,,GOLDEN CROWN ,TRUE,TRUE
+KEWRA WATER ,bottle,bottle,500 ,50,other,,,,Room Temperature,FALSE,,GOLDEN CROWN ,TRUE,TRUE
+VINEGAR ,bottle,bottle,680 ,35,other,,1,,Room Temperature,FALSE,,GOLDEN CROWN ,TRUE,TRUE
+KEWRA WATER ,bottle,bottle,250 ,50,other,,,,Room Temperature,FALSE,,DABUR ,TRUE,TRUE
+DAL MOONG MOGAR ,Kg ,Kg ,1000,96,other,,14,,Room Temperature,FALSE,,,TRUE,TRUE
+DAL GREEN MOONG SABUT ,Kg ,Kg ,1000,89,other,,3,,Room Temperature,FALSE,,,TRUE,TRUE
+DAL WHITE MUTTER  ,Kg ,Kg ,1000,43,other,,3,,Room Temperature,FALSE,,,TRUE,TRUE
+DAL CHANNA ,Kg ,Kg ,1000,74,other,,6,,Room Temperature,FALSE,,,TRUE,TRUE
+DAL RAJMA ,Kg ,Kg ,1000,118,other,,5,,Room Temperature,FALSE,,,TRUE,TRUE
+DAL KALA URD CHILKA ,Kg ,Kg ,1000,99,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+DAL KALA URD SABUT ,Kg ,Kg ,1000,94,other,,2,,Room Temperature,FALSE,,,TRUE,TRUE
+DAL TAUR  ,Kg ,Kg ,1000,105,other,,10,,Room Temperature,FALSE,,,TRUE,TRUE
+BLACK CHANNA ,Kg ,Kg ,1000,60,other,,7,,Room Temperature,FALSE,,,TRUE,TRUE
+DAL LOBIA ,Kg ,Kg ,1000,84,other,,3,,Room Temperature,FALSE,,,TRUE,TRUE
+KABULI CHANNA ,Kg ,Kg ,1000,102,other,,8,,Room Temperature,FALSE,,,TRUE,TRUE
+DAL ROASTED CHANNA  ,Kg ,Kg ,1000,89,other,,1,,Room Temperature,FALSE,,,TRUE,TRUE
+DAL GREEN MOONG CHILKA ,Kg ,Kg ,1000,89,other,,3,,Room Temperature,FALSE,,,TRUE,TRUE
+DAL RED MASUR  ,Kg ,Kg ,1000,72,other,,3,,Room Temperature,FALSE,,,TRUE,TRUE
+DAL BLACK MASUR  ,Kg ,Kg ,1000,70,other,,4,,Room Temperature,FALSE,,,TRUE,TRUE
+DAL WHITE URD  ,Kg ,Kg ,1000,102,other,,7,,Room Temperature,FALSE,,,TRUE,TRUE
+CURRY POWDER ,liter,jar ,500 ,495,other,,,,Room Temperature,FALSE,,BOLTS ,TRUE,TRUE
+OATS ,liter,jar ,215,80,other,,,,Room Temperature,FALSE,,SHANTIS ,TRUE,TRUE
+KISMIS (RAISINS),Kg ,Kg ,1000,300,other,,0.5,,Room Temperature,FALSE,,,TRUE,TRUE
+MATCH BOX ,piece,PIECE ,1,1,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+PISTA CUTTING,Packet,PACKET,1000,780,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+PISTA ,Kg ,Kg ,1000,790,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+BADAM (ALOMD),Kg ,Kg ,1000,780,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+"AKHROTE
+AKHROTE",Kg,Kg,1000,1034,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+ENO 185MRP,bottle,bottle,100 ,170,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+NUTRELLA SPREAD,bottle,bottle,350 ,350,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+NUTRELLA SPREAD,bottle,bottle,750 ,632.43,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+DESI GHEE ,Kg ,Kg ,1000,500,Dairy,,4,,Room Temperature,FALSE,,KSHEER,TRUE,TRUE
+DALDA GHEE ,Kg ,Kg ,1000,140,Dairy,,,,Room Temperature,FALSE,,SCOTTER ,TRUE,TRUE
+SILEVADA ,Kg ,Kg ,1000,48,Other,,3,,Room Temperature,FALSE,,CHETAK ,TRUE,TRUE
+PAPAD ,Kg ,Kg ,200 ,34,Other,,2,,Room Temperature,FALSE,,VISHAL ,TRUE,TRUE
+JEERA PAPAD ,Kg ,Kg ,500 ,43,Other,,3,,Room Temperature,FALSE,,ZAKAS ,TRUE,TRUE
+MADRASI PAPAD ,Kg ,Kg ,90 G,20,Other,,8,,Room Temperature,FALSE,,SRI MEENAKSHI TRADERS ,TRUE,TRUE
+KHICHIYA PAPAD ,Kg ,Kg ,1000,100,Other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+LIJJAT PAPAD,Kg,Kg,1000,340,Other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+COCONUT POWDER ,Kg ,Kg ,1000,288,other,,2,,Room Temperature,FALSE,,AMIRAS ,TRUE,TRUE
+NOODLES ,Kg ,Kg ,800 ,56.25,other,,0.5,,Room Temperature,FALSE,,GOLDEN CROWN ,TRUE,TRUE
+VERMICELLI ,Kg ,Kg ,800 ,80.75,other,,8,,Room Temperature,FALSE,,BAMBINO ,TRUE,TRUE
+WHITE DALIA ,Kg ,Kg ,1000,40,other,,2,,Room Temperature,FALSE,,JAGDISH ,TRUE,TRUE
+POHA ,Kg ,Kg ,1000,52,other,,6,,Room Temperature,FALSE,,TAPARIA ,TRUE,TRUE
+SEV MOTA ,Kg ,Kg ,1000,200,other,,3,,Room Temperature,FALSE,,,TRUE,TRUE
+SEV BARIK ,Kg ,Kg ,1000,210,other,,1,,Room Temperature,FALSE,,,TRUE,TRUE
+CUSTARD POWDER ,Kg ,Kg ,1000,95,other,,1,,Room Temperature,FALSE,,BUTTER FLY ,TRUE,TRUE
+PEANUT ,Kg ,Kg ,1000,91.64,other,,4,,Room Temperature,FALSE,,,TRUE,TRUE
+SOYA BEAN BADI ,Kg ,Kg ,1000,61.5,other,,3,,Room Temperature,FALSE,,RUCHI ,TRUE,TRUE
+MOONG BADI ,Kg ,Kg ,1000,125,other,,,,Room Temperature,FALSE,,MAMTA ,TRUE,TRUE
+MAGAJ,Kg ,Kg ,1000,465,other,,4,,Room Temperature,FALSE,,ASHOK INDUSTRIES ,TRUE,TRUE
+SUJI ,Kg ,Kg ,1000,45,other,,4,,Room Temperature,FALSE,,TAPARIA ,TRUE,TRUE
+ITLI RAWA ,Kg ,Kg ,1000,40,other,,7,,Room Temperature,FALSE,,,TRUE,TRUE
+IMLI ,Kg ,Kg ,1000,125,other,,2,,Room Temperature,FALSE,,,TRUE,TRUE
+PANI PURI  ,Kg ,Kg ,1000,95,other,,,,Room Temperature,FALSE,,AMAZING ,TRUE,TRUE
+GULAB JAMUN POWDER ,Kg ,Kg ,200 ,107,other,,11,,Room Temperature,FALSE,,GITS ,TRUE,TRUE
+AJINOMOTO ,Kg ,Kg ,500 ,90,other,,0.5,,Room Temperature,FALSE,,GOLDEN CROWN ,TRUE,TRUE
+SPAGHETTI ,Kg,Kg,500 ,65,other,,,,Room Temperature,FALSE,,GOLDEN CROWN ,TRUE,TRUE
+PASTA LASANIYA,Packet,PACKET,500 ,250,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+PASTA PENNE  ,Packet,PACKET,500 ,120,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+PASTA MACRONI  ,Packet,PACKET,500 ,83.61,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+PASTA PENNE  ,Kg ,Kg ,1000,58,other,,,,Room Temperature,FALSE,,ZILLI MILLI ,TRUE,TRUE
+PASTA MACRONI  ,Kg ,Kg ,1000,58,other,,,,Room Temperature,FALSE,,ZILLI MILLI ,TRUE,TRUE
+GUR (JAGGERY),Kg ,Kg ,1000,42.97,other,,4,,Room Temperature,FALSE,,,TRUE,TRUE
+BAKING POWDER ,Kg ,Kg ,400 ,48.14,other,,,,Room Temperature,FALSE,,WEIKFIELD ,TRUE,TRUE
+MURMURA ,Kg ,Kg ,500 ,37.15,other,,1,,Room Temperature,FALSE,,,TRUE,TRUE
+SABUDANA ,Kg ,Kg ,500 ,36.5,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+COFFEE POWDER 500 GRM,Packet,PACKET,500 ,1779,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+COFFEE ESSPRESSO BLEND ,Kg,Kg,1000,1509,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+COFFEE,Kg,Kg,1000,660.69,other,,0.5,,Room Temperature,FALSE,,LAVAZZA,TRUE,TRUE
+COFFEE ,Kg ,Kg ,1000,1036,other,,,,Room Temperature,FALSE,,TATA ,TRUE,TRUE
+TEA LAL GHODA ,Kg ,Kg ,1000,277,other,,5,,Room Temperature,FALSE,,TATA ,TRUE,TRUE
+MAGGI ,Packet,PACKET ,1680,310,other,,,,Room Temperature,FALSE,,MAGGI ,TRUE,TRUE
+KHAMAN DHOKLA ,Packet,PACKET ,1000,195,other,,,,Room Temperature,FALSE,,GANPATI ,TRUE,TRUE
+KAJU SOORA,Kg,Kg,1000,450,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+KAJU TUKDA ,Kg,Kg,1000,822,other,,0.7,,Room Temperature,FALSE,,,TRUE,TRUE
+KAJU WHOLE ,Kg,Kg,1000,826,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+GREEN ELAICHI ,Kg,Kg,100 ,3200,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+COCONUT WATER ,piece,PIECES,PC,23.63,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+FOOD COLOR ,Liter ,TIN ,100 ,80,other,,1,,Room Temperature,FALSE,,BUSH ,TRUE,TRUE
+BOURN VITA ,Kg ,Kg ,1000,410,other,,,,Room Temperature,FALSE,,CADBURY ,TRUE,TRUE
+GARLIC ,Kg ,Kg ,1000,76,other,,7,,Room Temperature,FALSE,,,TRUE,TRUE
+GREEN PEAS ,Kg ,Kg ,5000,450,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+FRENCH FRY ,Kg ,Kg ,2500,310,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+SAUNF,Kg ,Kg ,1000,345.71,other,,1,,Room Temperature,FALSE,,,TRUE,TRUE
+FRENCH FRY ,Kg ,Kg ,3000,396,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+CORN FLAKES ,Packet,PACKET ,500 ,54.8,other,,10,,Room Temperature,FALSE,,SHANTIS ,TRUE,TRUE
+HONEY ,bottle,bottle,1000,343,other,,,,Room Temperature,FALSE,,PATANJALI ,TRUE,TRUE
+AMERICAN CORN ,Packet,PACKET ,1000,75,other,,,,Room Temperature,FALSE,,FRESH O GREEN ,TRUE,TRUE
+CHILLI FLAKES ,Kg ,Kg ,1000,400,other,,,,Room Temperature,FALSE,,VIVA ,TRUE,TRUE
+OREGANO ,Kg ,Kg ,1000,350,other,,,,Room Temperature,FALSE,,VIVA,TRUE,TRUE
+LAUNG (CLOVE) ,Kg ,Kg ,1000,825,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+TUTIT FRUTTI,Kg ,Kg ,400 ,33,other,,2,,Room Temperature,FALSE,,,TRUE,TRUE
+CHOCO FLAKES ,Packet,PACKET ,375 ,115.15,other,,4,,Room Temperature,FALSE,,SHANTIS,TRUE,TRUE
+TOOTH PICK,bottle,bottle,.50 ,8.8,other,,4,,Room Temperature,FALSE,,SILVER,TRUE,TRUE
+TAHINA PASTE 1Kg,Liter ,TIN ,1000,890,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+AMSUR POWDER,Kg,Kg,1000,194.95,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+BAKED BEANS 440GM,Kg,Kg,440 ,46.2,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+BREAD CRUMS,Packet,PACKET,1000,125,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+CHOCOLATE TOPPING 1LTR,bottle,bottle,1000,238,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+"COOKING SODA
+COOKING SODA",Packet,PACKET,100 ,10,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+GARLIC POWDER 4 225MRP,Packet,PACKET,400 ,191.25,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+GURD,Kg,Kg,1000,240,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+HERSHEY SYRUP CHOCOLATE,bottle,bottle,1,186.85,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+JALEPENO SLICE 850G HABIT jar,liter,jar,850 ,101.25,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+JAL JEERA POWDER,Packet,PACKET,1,126.26,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+KER,Kg,Kg,1000,932,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+SANGARI,Kg,Kg,1000,798,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+KERY PUDINA,bottle,bottle,1000,242.25,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+KESAR,Packet,PACKET,1   ,128,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+WHITE TIL,Packet,PACKET,1000,72,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+TEA BAGS POUCH 100,Packet,PACKET ,1,1.6,other,,,,Room Temperature,FALSE,,TETLEY ,TRUE,TRUE
+TEA BAGS POUCH 200,Packet,PACKET ,1,305,other,,,,Room Temperature,FALSE,,TETLEY ,TRUE,TRUE
+GREEN BAGS POUCH 25,Packet,PACKET ,1,161.5,other,,,,Room Temperature,FALSE,,TETLEY ,TRUE,TRUE
+COFFEE POUCH 144,Packet,PACKET ,1,267.84,other,,,,Room Temperature,FALSE,,NESCAFE ,TRUE,TRUE
+MILK POWDER POUCH 120,Packet,PACKET ,1,364,other,,,,Room Temperature,FALSE,,AMUL ,TRUE,TRUE
+MILK POWDER POUCH 150,Packet,PACKET ,1,375,other,,,,Room Temperature,FALSE,,EVERY DAY ,TRUE,TRUE
+SUGAR POUCH 200,Packet,PACKET ,1,115.5,other,,,,Room Temperature,FALSE,,JYOT ,TRUE,TRUE
+CHILLI FLAKES SACHET 225MRP,Packet,PACKET,1,120,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+SLIPPER ,Packet,PACKET ,1,34.45,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+BODY WASH ,Packet,PACKET ,1,8.85,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+LOTION ,Packet,PACKET ,1,8.85,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+SHAMPOO,Packet,PACKET ,1,8.85,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+HAIR OIL ,Packet,PACKET ,1,0.85,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+SHOWER CAP ,Packet,PACKET ,1,3.85,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+CARE KIT ,Packet,PACKET ,1,4.42,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+GLASS COASTER ,Packet,PACKET ,1,1.77,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+DOLLY PAPER ,Packet,PACKET ,1,16,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+GLASS COVER ,Packet,PACKET ,1,6,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+SHOE SHINE ,Packet,PACKET ,1,7,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+DISPOSAL BAG ,Packet,PACKET ,1,7,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+CHOCOLATE BOX,Packet,PACKET ,1,98,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+OREGANO SPICE MIX SCHET,Packet,PACKET ,1,120,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+9 V BATTERY,piece,PIECE ,1,180,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+AA CELL,piece,PIECE ,1,5.5,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+AA DURO CELL,piece,PIECE ,1,36.39,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+AAA CELL,piece,PIECE ,1,5,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+AGARBATTI,Packet,PACKET,1,40,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+ALL OUT MACHINE,piece,PIECE ,1,80,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+ALL OUT REFIL,piece,PIECE ,1,55,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+ALL PURPOSE KIT,piece,PIECE ,1,3.54,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+BLEACHING POWDER,Kg,Kg,1,51,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+BODY WASH,piece,PIECE ,1,8.85,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+BODYWASH ,Liter,LTR,5000,180.09,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+BROOM DANDA,piece,PIECE ,1,428.57,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+BROOM PHOOL,piece,PIECE ,1,70,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+COMB,piece,PIECE ,1,5.12,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+COSTER,piece,PIECE ,1,1.7,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+COTTAN SILIPER,bunch,PAIR,1,30.54,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+COULAR PATTI,piece,PIECE ,1,70,other,,3,,Room Temperature,FALSE,,,TRUE,TRUE
+DENTAL KIT,piece,PIECE ,1,10.58,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+DETTOL SOAP,piece,PIECE ,1,8.89,other,,200,,Room Temperature,FALSE,,,TRUE,TRUE
+DHAGA,Packet,PKT,1,80,other,,3,,Room Temperature,FALSE,,,TRUE,TRUE
+DND CARD,piece,PIECE ,1,10.03,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+DRAWING PIN1*10NOS,Packet,PACKET,1,110.25,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+DRY MOP,piece,PIECE ,1,220.8,other,,1,,Room Temperature,FALSE,,,TRUE,TRUE
+DURO D2 CELL,piece,PIECE ,1,162.5,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+DUSTBIN 120 LTR,piece,PIECE ,1,2250,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+DUSTER WHITE,piece,PIECE ,1,11.3,other,,2,,Room Temperature,FALSE,,,TRUE,TRUE
+ELECTRIC BAT,piece,PIECE ,1,475,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+EXL BAR SOAP ,piece,PIECE ,1,8.71,other,,60,,Room Temperature,FALSE,,,TRUE,TRUE
+FINAYAL,Liter,LTR,5000,27.14,other,,10,,Room Temperature,FALSE,,,TRUE,TRUE
+GARBEGE BAGS  ( ALL ),Kg,Kg,1000,123.9,other,,10,,Room Temperature,FALSE,,,TRUE,TRUE
+HAIR OIL,Packet,PKT,100 ,85,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+HAND GLOVES ,Packet,PKT,100 ,27.97,other,,1,,Room Temperature,FALSE,,,TRUE,TRUE
+HANDWASH ,Liter,LTR,5000,180.09,other,,5,,Room Temperature,FALSE,,,TRUE,TRUE
+HANDWASH ,Liter,LTR,5000,36,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+KAPOOR GOLI,Packet,PKT,1000,116,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+KER KIT,piece,PIECE ,1,5.8,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+KOT ROLL,,ROL,1,65,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+LAKEJ TAG,piece,PIECE ,1,2.12,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+LAUNDRY BAG SITE,piece,PIECE ,1,30,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+LAUNDRY BAG H.K.I,piece,PIECE ,1,9.44,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+LEMON SOAP WITH KI LOGO,piece,PIECE ,1,4.72,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+LOCK,piece,PIECE ,1,30,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+LUX SOAP,piece,PIECE ,1,8.51,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+MATCH PC,piece,PIECE ,1,0.75,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+ODONIL,piece,PIECE ,1,25.51,other,,58,,Room Temperature,FALSE,,,TRUE,TRUE
+PCI HIT,piece,PIECE ,1,115.69,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+PEARS SOAP ,piece,PIECE ,1,19.62,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+REVA SENSE 5LTR,Liter,LTR,5000,165.2,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+RING RABAR,Kg,Kg,1000,200,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+ROOM SPRAY,piece,PIECE ,1,114.13,other,,1,,Room Temperature,FALSE,,,TRUE,TRUE
+SHAMPOO ,bottle,bottle,380 ,152.57,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+SHAMPOO ,Liter,LTR,5000,180.09,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+SHAMPOO CLINIC PLUS ,bottle,POUCH ,1,0.73,other,,700,,Room Temperature,FALSE,,,TRUE,TRUE
+SHAVING KIT (RAZOR & CREAM),Packet,PACKET ,1,13.57,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+DENTAL KIT (PASTE & BRUSH),Packet,PACKET ,1,11.8,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+SHOE SHINE,piece,PIECE ,1,6.49,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+SHOWER CAP,Packet,PACKET,1,4.53,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+SKIN LOTION ,Liter,LTR,5000,180.09,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+STEEL WOOL ROLL ,,ROL,5000,1416,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+STICK MOP,piece,PIECE ,1,153.4,other,,1,,Room Temperature,FALSE,,,TRUE,TRUE
+SU SHAYNER,piece,PIECE ,1,6.49,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+SURF EXCEL ,Kg ,Kg ,1000,118.47,other,,7,,Room Temperature,FALSE,,,TRUE,TRUE
+SURF EXCEL ,Packet,PKT,750 ,80.97,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+SURF EXCEL ,Packet,PKT,500,58,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+TASKI EMRAIL,can,can,5000,157.88,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+TASKI H 100,can,can,5000,187.85,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+TASKI MACHINE PAID,liter,UNI,1,491.33,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+TASKI NOBILE PLUS,can,can,5000,1825.46,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+TASKI R-1,bottel,barrel,5000,215.48,other,,1,,Room Temperature,FALSE,,,TRUE,TRUE
+TASKI R-2,bottel,barrel,5000,182.39,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+TASKI R-3,bottel,barrel,5000,249.03,other,,0.5,,Room Temperature,FALSE,,,TRUE,TRUE
+TASKI R-4,bottel,barrel,5000,349.23,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+TASKI R-5,bottel,barrel,5000,183.48,other,,1,,Room Temperature,FALSE,,,TRUE,TRUE
+TASKI R-6,bottel,barrel,5000,130.11,other,,1,,Room Temperature,FALSE,,,TRUE,TRUE
+TASKI R-7,bottel,barrel,5000,100.84,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+TASKI R-9,bottel,barrel,5000,190.72,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+TASKI R6 500ML,liter,UNI,500 ,63.23,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+TASKI SUMA D7.1,Liter,LTR,5000,298.17,other,,1,,Room Temperature,FALSE,,,TRUE,TRUE
+TASKI SUMA DRAIN,bottel,barrel,5000,159.35,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+TASKI SUMA GRILL D9,Liter,LTR,5000,284.84,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+TASKI SUMA MULTI,Liter,LTR,5000,96.68,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+TASKI SUMA SELECT ,Liter,LTR,25 L,417.34,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+TASKI SUMA ULTRA,Liter,LTR,5000,517.9,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+TASKI TERRANOVA,Liter,LTR,1,437.42,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+TASKI URINAL SCREEN,liter,UNI,1,448.06,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+SCRUB PAD,Packet,PKT,1,23,other,,3,,Room Temperature,FALSE,,,TRUE,TRUE
+TASKI SUMA DATE,bottel,barrel,5000,128.27,other,,2,,Room Temperature,FALSE,,,TRUE,TRUE
+WC- BAND,piece,PIECE ,1,0.71,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+WIPPER BIG,piece,PIECE ,1,177,other,,1,,Room Temperature,FALSE,,,TRUE,TRUE
+WIPPER SMALL,piece,PIECE ,1,141.6,other,,2,,Room Temperature,FALSE,,,TRUE,TRUE
+W/C BRUSH,piece,PIECE ,1,88.84,other,,1,,Room Temperature,FALSE,,,TRUE,TRUE
+TASKI SUMA DIP -K1,Liter,LTR,5000,204.93,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+VIM BAR,Packet,PKT,1,9.35,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+WC BEND ,Packet,PACKET ,1,0.82,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+CAUSTIC POWDER,Kg,Kg,1,52.41,other,,14,,Room Temperature,FALSE,,,TRUE,TRUE
+TASKI 100 L CRYSTAL,Kg,Kg,1,274.27,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+TASKI ACTION POWDER,Kg,Kg,1,314.7,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+TASKI EXTRA SOFT,can,can,5000,250,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+TASKI HYPO,Liter,LTR,50  ,65.07,other,,6,,Room Temperature,FALSE,,,TRUE,TRUE
+TASKI SUPRIME POWDER,Kg,Kg,25,248.43,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+TASKI-200S,can,can,1,592.7,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+BUTTER PAPER ROLL,packet,packet,1,155,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+C FOLD PAPER ,Packet,PACKET ,1,34,other,,42,,Room Temperature,FALSE,,,TRUE,TRUE
+NAPKIN PAPER ,Packet,PACKET ,1,23.77,other,,30,,Room Temperature,FALSE,,,TRUE,TRUE
+TISSUE PAPER ,Packet,PACKET ,1,23,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+TISSUE ROLL ,packet,packet,1,1563,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+TISSUE Box ,box,Box ,1,31.86,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+TOILET ROLL ,packet,packet,1,7.25,other,,120,,Room Temperature,FALSE,,,TRUE,TRUE
+STRAW PIPE ,Packet,PACKET ,1,33.62,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+STICK STRIER ,Packet,PACKET ,1,45,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+SILVER FOIL ,packet,packet,1,351,other,,4,,Room Temperature,FALSE,,,TRUE,TRUE
+CLEAN FOIL ,packet,packet,1,269,other,,4,,Room Temperature,FALSE,,,TRUE,TRUE
+DISPOSAL PAPER GLASS ,Packet,PACKET ,1,28.5,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+DISPOSAL TEA CUP ,Packet,PACKET ,1,13.27,other,,90,,Room Temperature,FALSE,,,TRUE,TRUE
+DISPOSAL WATER GLASS ,Packet,PACKET ,1,35,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+DISPOSAL PLATE ,Packet,PACKET ,1,8.5,other,,35,,Room Temperature,FALSE,,,TRUE,TRUE
+DISPOSAL SPOON ,Packet,PACKET ,1,41,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+DISPOSAL ICE CREAM CUP ,Packet,PACKET ,1,84,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+MEAL TRAY ,piece,PIECE,1,5.87,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+CONTAINER BLACK  500 ML,piece,PIECE,1,5.25,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+CONTAINER BLACK 300 ML ,piece,PIECE,1,4.6,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+CONTAINER BLACK 400 ML ,piece,PIECE,1,5,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+CONTAINER BLACK 1000 ML ,piece,PIECE,1,6.54,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+CONTAINER BLACK 650 ML ,piece,PIECE,1,7.38,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+CONTAINER BLACK 250 ML ,piece,PIECE,1,2.46,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+CONTAINER BLACK 100 ML ,piece,PIECE,1,2.24,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+PLASTIC CARRY BAG 1 Kg ,Kg ,Kg ,1,280,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+CAP KITCHEN  ,Packet,PACKET ,1,46.2,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+FOOD SAMPLE POUCH ,Packet,PACKET ,1,30,other,,4,,Room Temperature,FALSE,,,TRUE,TRUE
+SERVICE HAND GLOVES ,Packet,PACKET ,1,33,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+PACKING ROLL ,packet,packet,1,240,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+SILVER BAG 6*8,Packet,PACKET ,1,90,other,,,,Room Temperature,FALSE,,,TRUE,TRUE
+SILVER BAG 8*10 ,Packet,PACKET ,1,100,other,,,,,,,,,
+BREAD PANNI,Packet,PACKET ,1000,190,other,,,,,,,,,
+240 ML D/W GLASS WHITE,piece,PIECE,1,3.54,other,,,,,,,,,
+350 ML PCS GLASS(12Qz),piece,PIECE,1,3.07,other,,,,,,,,,
+500 ML PACKAGING DABBA BLACK,piece,PIECE,1,5.59,other,,,,,,,,,
+92 DIA PET FLAT LID WITH DHKAN,piece,PIECE,1,1.18,other,,,,,,,,,
+"BUTTER PAPER ROLL
+BUTTER PAPER ROLL",packet,packet,1,155,other,,,,,,,,,
+CAKE BOX 10*10,piece,PIECE,1,16.8,other,,,,,,,,,
+CAKE BOX 8*8,piece,PIECE,1,13.44,other,,,,,,,,,
+CAP CHEF PAPER A,piece,PIECE,1,6.17,other,,,,,,,,,
+"CARRY BAG PLASTIC
+CARRY BAG  PLASTIC",Kg ,Kg ,1,135.64,other,,,,,,,,,
+"MEAL TRAY 8CP
+MEAL TRAY 8CP",piece,PIECE,1,21.24,other,,,,,,,,,
+PASTRY BOX 5*5,piece,PIECE,1,5.43,other,,,,,,,,,
+PIZZA BOX 10*10,piece,PIECE,1,11.54,other,,,,,,,,,
+PLAIN PAPER BAG 23*18*15 SMALL,piece,PIECE,1,4.72,other,,,,,,,,,
+PLAIN PAPER BAG 30*21*18 BIG,piece,PIECE,1,7.08,other,,,,,,,,,
+"SILVER 6*8
+SILVER 6*8",Packet,PACKET,1,88.29,other,,,,,,,,,
+"SILVER8*10
+SILVER8*10",Packet,PACKET,1,68.75,other,,,,,,,,,
+STIRRER BIG,piece,PIECE,1,1.26,other,,,,,,,,,
+STIRRER SMALL,piece,PIECE,1,1.15,other,,,,,,,,,
+ALL PIN,Packet,PACKET,500,40,other,,,,,,,,,
+BOOK PRINT MEAL COUPON,piece,PIECE,1,134.5,other,,,,,,,,,
+BREAD TAPE,piece,PIECE,1,22.16,other,,,,,,,,,
+CARBON PAPER,piece,PIECE,1,1,other,,,,,,,,,
+CELLO TAP,packet,packet,1,61,other,,,,,,,,,
+CELLO TAP MIDIAM,packet,packet,1,40,other,,,,,,,,,
+CHALLAN BOOK BIG,piece,PIECE,1,111.94,other,,1,,,,,,,
+CHALLAN BOOK SMALL,piece,PIECE,1,39.53,other,,,,,,,,,
+CLIP BAND,piece,PIECE,1,3,other,,,,,,,,,
+DORI FILE,piece,PIECE,1,10,other,,,,,,,,,
+DRIVER LONG BOOK,piece,PIECE,1,55,other,,,,,,,,,
+DUPLICATE BOOK,piece,PIECE,1,20.91,other,,,,,,,,,
+FEVISTICK,piece,PIECE,1,24.09,other,,,,,,,,,
+FILE BOX BIG,piece,PIECE,1,85,other,,,,,,,,,
+FILE MINI,piece,PIECE,1,60,other,,,,,,,,,
+FILE VOUCHER,piece,PIECE,1,12,other,,,,,,,,,
+GATE PASS BOOK,piece,PIECE,1,121,other,,,,,,,,,
+GUEST KEY POCKET,piece,PIECE,1,2.9,other,,,,,,,,,
+HIGHLIGHTER,piece,PIECE,1,24.55,other,,,,,,,,,
+L FOLDER,piece,PIECE,1,8,other,,,,,,,,,
+LATTER PAID HKI,piece,PIECE,1,1.87,other,,,,,,,,,
+LIFAFA ALL,piece,PIECE,1,1.99,other,,,,,,,,,
+MACHINE STEPLER,piece,PIECE,1,30,other,,,,,,,,,
+MARKER BIG PARMANET,piece,PIECE,1,13.21,other,,,,,,,,,
+MARKER SMALL PARMANET,piece,PIECE,1,8.23,other,,,,,,,,,
+MARKER WHITE BORD MARKER,piece,PIECE,1,17.66,other,,,,,,,,,
+PAPER RIN A4,Packet,PACKET,1,231.6,other,,,,,,,,,
+PEN,piece,PIECE,1,2.76,other,,,,,,,,,
+PEN UNIBULL,piece,PIECE,1,80,other,,,,,,,,,
+PENCEL,piece,PIECE,1,4.43,other,,,,,,,,,
+PURCHASE BOOK,piece,PIECE,1,70,other,,,,,,,,,
+RAGISTER,piece,PIECE,1,102.06,other,,,,,,,,,
+RAGISTER ATTENDENCE,piece,PIECE,1,102.26,other,,,,,,,,,
+RAGISTER DAILY STOCK,piece,PIECE,1,368.97,other,,,,,,,,,
+RAGISTER DUTY ALLOTMENT,piece,PIECE,1,220,other,,,,,,,,,
+RAGISTER ENTERY,piece,PIECE,1,588,other,,,,,,,,,
+RAGISTER FLOOR SECTICTION,piece,PIECE,1,119,other,,,,,,,,,
+RAGISTER GROOMING,piece,PIECE,1,220,other,,,,,,,,,
+RAGISTER HAND OVER,piece,PIECE,1,178.18,other,,,,,,,,,
+RAGISTER MASSAGE,piece,PIECE,1,358.33,other,,,,,,,,,
+RAGISTER OP,piece,PIECE,1,260,other,,,,,,,,,
+RAGISTER ROOM S,piece,PIECE,1,130,other,,,,,,,,,
+RAGISTER SABJI ODER,piece,PIECE,1,190,other,,,,,,,,,
+ROOM SERVICE ORDER CONTROL SHE,Packet,PACKET,1,170,other,,,,,,,,,
+STAF GATE PASS BOOK,piece,PIECE,1,95.83,other,,,,,,,,,
+STAM PAID,piece,PIECE,1,30,other,,,,,,,,,
+STEAKER,Packet,PACKET,1,25,other,,,,,,,,,
+STEPLER PIN BIG,piece,PIECE,1,15.96,other,,,,,,,,,
+STEPLER PIN SMALL,piece,PIECE,1,9.93,other,,,,,,,,,
+"STORE BOOK
+STORE BOOK",piece,PIECE,1,199,other,,,,,,,,,
+VEGETABLE BOOK,piece,PIECE,1,175,other,,,,,,,,,
+VISITOR GATE PASS BOOK,piece,PIECE,1,99.17,other,,,,,,,,,
+VOUCHER CASH JAMA,piece,PIECE,1,48.53,other,,,,,,,,,
+VOUCHER CASH PAYMENT,piece,PIECE,1,48.39,other,,,,,,,,,
+VOUCHER SALARY,piece,PIECE,1,63.64,other,,,,,,,,,
+WHITENER,piece,PIECE,1,17.83,other,,,,,,,,,
+GAS ,Gallon,TANK,1,1900,Other,,11,,,,,,,
+WATER jar,liter,jar,2000,25,other,,,,,,,,,
+COAL WOODEN,packet,packet,1,35,Other,,,,,,,,,
+COAL STONE,packet,packet,1,28,Other,,,,,,,,,
+CARAMEL SYRUP ,bottle,bottle,1000,770,other,,,,,,,MTSR,,
+CHOCOLATE SYRUP ,bottle,bottle,700 ,760,other,,,,,,,MTSR,,
+CINNAMON SYRUP ,bottle,bottle,1000,860,other,,,,,,,MTSR,,
+ELDERFLOWER SYRUP ,bottle,bottle,1000,860,other,,,,,,,MTSR,,
+HAZEINUT SYRUP ,bottle,bottle,1000,860,other,,,,,,,MTSR,,
+LEMON ICE TEA ,bottle,bottle,1000,860,other,,,,,,,MTSR,,
+LRISH CREAM SYRUP ,bottle,bottle,1000,700,other,,,,,,,MTSR,,
+PEACH SYRUP ,bottle,bottle,1000,860,other,,,,,,,MTSR,,
+VANILLA SYRUP ,bottle,bottle,1000,860,other,,,,,,,MTSR,,
+DRY YEAST,Packet,PACKET,500G,170.35,Bakery,,,,,,,ANGEL,,
+EGG FREE RED VELVETCAKE MIX ,Packet,PACKET,1000,300,Bakery,,,,,,,CALPRO ,,
+EGG FREE RED VELVETCAKE MIX ,Packet,PACKET,5000,1500,Bakery,,,,,,,CALPRO ,,
+ALMOND PASTE,Packet,PACKET,1000,888.24,Bakery,,,,,,,CELEBRE,,
+LIQUID FOOD COLOUR YELLOW,Packet,PACKET,200 ,75,Bakery,,,,,,,COLOUR MIST,,
+LIQUID FOOD COLOUR PURPLE,Packet,PACKET,200 ,75,Bakery,,,,,,,COLOUR MIST,,
+LIQUID FOOD COLOUR BLUE,Packet,PACKET,200 ,75,Bakery,,,,,,,COLOUR MIST,,
+LIQUID FOOD COLOUR GREEN,Packet,PACKET,200 ,75,Bakery,,,,,,,COLOUR MIST,,
+LIQUID FOOD COLOUR BROWN,Packet,PACKET,200 ,240,Bakery,,,,,,,COLOUR MIST,,
+LIQUID FOOD COLOUR ORANGE ,Packet,PACKET,200 ,240,Bakery,,,,,,,COLOUR MIST,,
+LIQUID FOOD COLOUR RED,Packet,PACKET,200 ,240,Bakery,,,,,,,COLOUR MIST,,
+BUTTERSCOTCH NUTS 1Kg,piece,PIECE,1000,180,Bakery,,,,,,,CHOCOVILLE,,
+FEUILLETINE FRENCH BISCUIT,Packet,PACKET,200 ,160,Bakery,,,,,,,MICS,,
+BLUEBERRY FROZEN,Packet,PACKET,1000,1516.67,Bakery,,,,,,,DIRA,,
+BLUEBERRY PUREE,Packet,PACKET,1000,1400,Bakery,,,,,,,DIRA,,
+STRAWBERRY FROZEN,Packet,PACKET,2500,1937.5,Bakery,,,,,,,DIRA,,
+STRAWVERRY PUREE,Packet,PACKET,1000,990,Bakery,,,,,,,DIRA,,
+MASCARPONE,Packet,PACKET,500 ,350,Bakery,,,,,,,DILECTA,,
+BAKING POWDER ,Packet,PACKET,100 ,30,Bakery,,,,,,,WEIKFIELD ,,
+ROSE WHITE FLAVOUR,Packet,PACKET,500 ,449.34,Bakery,,,,,,,IFF,,
+VANILLA 2000 POWDER,Packet,PACKET,500 ,180,Bakery,,,,,,,IFF,,
+VANILLA FLAVOUR NO1,Packet,PACKET,500 ,335.28,Bakery,,,,,,,IFF,,
+ALMOUD SPECIAL ,piece,PIECE,500 ,468,Bakery,,,,,,,LEZ,,
+BISCOFF SPRED,Packet,PACKET,400 ,480,Bakery,,,,,,,LOTUS,,
+BLACK CURRENT CRUSH,bottle,bottle,1000,190,Bakery,,,,,,,MORDE,,
+MILK COMPOUND,piece,PIECE,500 ,170,Bakery,,,,,,,MORDE,,
+DARK CHOCOLATE (D45),piece,PIECE,500 ,486,Bakery,,,,,,,MORDE,,
+CLASSIC BAG,Packet,PACKET,500 ,1550,Bakery,,,,,,,NESCAFE,,
+CHOCO WAFER ROLLS,Packet,PACKET,250 ,80,Bakery,,,,,,,MICS,,
+MILK MAID ,Liter ,TIN,380 ,140.9,Bakery,,,,,,,NESTLE,,
+PREMIUM EGGFREE CHOCOLATE,Packet,PACKET,5000,1258.73,Bakery,,,,,,,PILLSBURY,,
+PREMIUM EGGFREE VANILLA,Packet,PACKET,5000,1009.55,Bakery,,,,,,,PILLSBURY,,
+BAKING SODA,Packet,PACKET,500 ,59.72,Bakery,,,,,,,WEIKFIELD ,,
+CHOCOLATE GEL,Packet,PACKET,1000,228,Bakery,,,,,,,PURIX ,,
+GLUCOSE SYRUP,Packet,PACKET,1000,181.42,Bakery,,,,,,,PURIX ,,
+PECTIN,piece,PIECE,75 G,368,Bakery,,,,,,,PURIX ,,
+BLANCED SLICED ALMOND,Packet,PACKET,1000,1280,Bakery,,,,,,,RICH'S,,
+BV CARAMEL SYRUP,Packet,PACKET,1300,240,Bakery,,,,,,,RICH'S,,
+BV CHOCOLATE SYRUP,Packet,PACKET,1300,240,Bakery,,,,,,,RICH'S,,
+HAZELNUT CHOCO SPREAD,Packet,PACKET,1000,252,Bakery,,,,,,,RICH'S,,
+ALPHABET MIX SPRINKLE,Packet,PACKET,130 ,208,Bakery,,,,,,,RAPLAP,,
+BLANCED ALMOND POWDER,Packet,PACKET,1000,1100,Bakery,,,,,,,RAPLAP,,
+CALCIUM POWDER,Packet,PACKET,1000,496.52,Bakery,,,,,,,RAPLAP,,
+CALCIUM POWDER,Packet,PACKET,800 ,480,Bakery,,,,,,,RAPLAP,,
+DARK COMPOUND CHIPS,Packet,PACKET,1000,394.44,Bakery,,,,,,,RAPLAP,,
+GLAZE CHOCOLATE,Packet,PACKET,2500,400,Bakery,,,,,,,RAPLAP,,
+HAZELNUT KERNAL,Packet,PACKET,500 ,1143.75,Bakery,,,,,,,RAPLAP,,
+LUSTER DUST GOLD,Packet,PACKET,50  ,960,Bakery,,,,,,,RAPLAP,,
+LUSTER DUST SILVER ,Packet,PACKET,50  ,960,Bakery,,,,,,,RAPLAP,,
+PEARL BALL RED MINI,Packet,PACKET,500 ,640,Bakery,,,,,,,RAPLAP,,
+WHEAT GLUTEN,Packet,PACKET,1000,360,Bakery,,,,,,,RAPLAP,,
+CLASSIC BREAKFAST SUGAR,Packet,PACKET,1000,75,Bakery,,,,,,,TRUST,,
+GOLD BROWN SUGAR,Packet,PACKET,1000,120,Bakery,,,,,,,TRUST,,
+CASTER SUGAR,Packet,PACKET,1000,75,Bakery,,,,,,,UTTAM,,
+ICING SUGAR,Packet,PACKET,1000,70.49,Bakery,,,,,,,UTTAM,,
+DARK CHOCOLATE 46.5%,Packet,PACKET,1000,1050,Bakery,,,,,,,VAN HOUTEN PROFESSIONAL,,
+MILK CHOCOLATE 35.6%,Packet,PACKET,1000,1180,Bakery,,,,,,,VAN HOUTEN PROFESSIONAL,,
+WHITE CHOCOLATE,Packet,PACKET,1000,1300,Bakery,,,,,,,VAN HOUTEN PROFESSIONAL,,
+COCOA POWDER,Packet,PACKET,1000,1080,Bakery,,,,,,,VAN HOUTEN PROFESSIONAL,,
+UNSALTED BUTTER,Packet,PACKET,500 ,280,Bakery,,,,,,,DYNAMIX,,
+UNSALTED BUTTER,Packet,PACKET,500 ,300,Bakery,,,,,,,PRESIDENT ,,
+MILK POWDER,Packet,PACKET,1000,400,Bakery,,,,,,,SKIMMED,,
+"10""CAKE BASE ROUND BLACK-MDF",piece,PIECE,1,7.79,other,,,,,,,,,
+"10""CAKE BASE SQUARE BLACK-MDF",piece,PIECE,1,7.79,other,,,,,,,,,
+250 ML PAPER TRAY(50),Packet,PACKET,1,145.07,other,,,,,,,,,
+4426 PAPER CUPS (1000PC),piece,PIECE,1,315.38,other,,,,,,,,,
+500 ML PAPER TRAY (50PC),Packet,PACKET,1,200.45,other,,,,,,,,,
+5030 PAPER CUPS (1000PC),piece,PIECE,1,400,other,,,,,,,,,
+5037.5 CUPS 1000PC,piece,PIECE,1,420,other,,,,,,,,,
+"8"" CAKE BASE SQUARE BLACK-MDF",piece,PIECE,1,4.48,other,,,,,,,,,
+"8""CAKE BASE ROUND BLACK -MDF",piece,PIECE,1,4.48,other,,,,,,,,,
+ACRYLIC CONTAINERRECTANGLE300M,piece,PIECE,1,25,other,,,,,,,,,
+"ACRYLIC SMALL RECTANGLE DESERT
+BOX (N59)",piece,PIECE,1,25,other,,,,,,,,,
+CAKE BASE BOARD 10*10,piece,PIECE,1,9.99,other,,,,,,,,,
+CAKE BASE BOARD 14*14,piece,PIECE,1,25,other,,,,,,,,,
+CAKE BASE BOARD 16*16,piece,PIECE,1,30,other,,,,,,,,,
+CAKE BASE BOARD BOARD 8*8,piece,PIECE,1,8,other,,,,,,,,,
+CAKE BASE RAOUND 5*5,piece,PIECE,1,5,other,,,,,,,,,
+BOLO PAPER CUPS,piece,PIECE,1,9.99,other,,,,,,,,,
+SMALL DREAM TIN,Packet,PACKET,1,30,other,,,,,,,,,
+SQUARE FOOD CONTAINER (50),Packet,PACKET,50,920,other,,,,,,,,,
+TRIANGLE PASTRY BOX,Packet,PACKET,100,949.99,other,,,,,,,,,

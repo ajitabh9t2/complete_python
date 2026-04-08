@@ -1,12 +1,12 @@
 Ingredient Name,Unit of Measurement,Purchase Unit,Conversion Factor,Cost Per Unit,Category,Description,Minimum Stock Level,Current Stock,Storage Temperature,Is Perishable,Shelf Life Days,Brand,Active,Available
-Milk ,liter,bottle,1.0,48.0,Dairy,,108.0,0.0,room_temperature,True,,SARAS ,True,True
-Milk Tetra ,liter,bottle,1.0,70.29,Dairy,,,0.0,room_temperature,False,,AMUL ,True,True
-Cream ,liter,bottle,1.0,212.21,Dairy,,1.0,0.0,room_temperature,False,,AMUL ,True,True
-Butter ,kg,packet,0.5,257.5,Dairy,,20.0,0.0,room_temperature,False,,AMUL ,True,True
+Milk ,liter,bottle,1.0,48.0,Dairy,,144.0,0.0,room_temperature,True,,SARAS ,True,True
+Milk Tetra ,liter,bottle,1.0,70.29,Dairy,,84.0,0.0,room_temperature,False,,AMUL ,True,True
+Cream ,liter,bottle,1.0,212.21,Dairy,,8.0,0.0,room_temperature,False,,AMUL ,True,True
+Butter ,kg,packet,0.5,257.5,Dairy,,14.0,0.0,room_temperature,False,,AMUL ,True,True
 Mozrella Cheese ,kg,packet,1.0,501.0,Dairy,,,0.0,room_temperature,False,,,True,True
-Paneer Jain,kg,packet,1.0,360.0,Dairy,,,0.0,room_temperature,False,,,True,True
+Paneer Jain,kg,packet,1.0,360.0,Dairy,,15.0,0.0,room_temperature,False,,,True,True
 Paneer Barmer,kg,packet,1.0,200.0,Dairy,,,0.0,room_temperature,False,,,True,True
-Bread ,kg,packet,0.5,34.0,Dairy,,,0.0,room_temperature,False,,,True,True
+Bread ,kg,packet,0.5,34.0,Dairy,,154.0,0.0,room_temperature,False,,,True,True
 Bread ,kg,packet,0.9,33.0,Dairy,,,0.0,room_temperature,False,,SUPER,True,True
 Brown Bread ,kg,packet,0.5,40.0,Dairy,,,0.0,room_temperature,False,,,True,True
 Ice Cream Butter Scotch ,liter,bottle,5.0,584.0,Dairy,,,0.0,room_temperature,False,,VADILAL ,True,True
@@ -15,32 +15,32 @@ Ice Cream Strawberry ,liter,bottle,5.0,536.0,Dairy,,,0.0,room_temperature,False,
 Ice Cream Chocolate ,liter,bottle,5.0,744.0,Dairy,,,0.0,room_temperature,False,,VADILAL ,True,True
 Ice Cream American,liter,bottle,5.0,739.0,Dairy,,,0.0,room_temperature,False,,VADILAL ,True,True
  Ice Cream Family Pack ,packet,packet,1.0,287.0,Dairy,,,0.0,room_temperature,False,,VADILAL ,True,True
-Cheese ,kg,packet,1.0,505.0,Dairy,,,0.0,room_temperature,False,,AMUL ,True,True
+Cheese ,kg,packet,1.0,505.0,Dairy,,4.0,0.0,room_temperature,False,,AMUL ,True,True
 Lassi ,liter,bottle,0.2,17.57,Dairy,,,0.0,room_temperature,False,,AMUL ,True,True
 Butter Milk ,liter,bottle,0.15,13.8,Dairy,,,0.0,room_temperature,False,,AMUL ,True,True
 Cool ,liter,bottle,0.18,21.8,Dairy,,,0.0,room_temperature,False,,AMUL ,True,True
 Cheese Slice,packet,packet,1.0,129.41,Dairy,,,0.0,room_temperature,False,,AMUL ,True,True
-Egg,piece,individual,1.0,4.93,Non_veg,,5000.0,0.0,room_temperature,False,,,True,True
-Chicken ,kg,packet,1.0,172.0,Non_veg,,160.0,0.0,room_temperature,False,,,True,True
+Egg,piece,individual,1.0,4.93,Non_veg,,2000.0,0.0,room_temperature,False,,,True,True
+Chicken ,kg,packet,1.0,172.0,Non_veg,,220.0,0.0,room_temperature,False,,,True,True
 Fish Fungus ,kg,packet,1.0,120.0,Non_veg,,,0.0,room_temperature,False,,,True,True
-Fish Basa,kg,packet,1.0,252.0,Non_veg,,,0.0,room_temperature,False,,,True,True
-Fish Rohu ,kg,packet,1.0,160.0,Non_veg,,,0.0,room_temperature,False,,,True,True
+Fish Basa,kg,packet,1.0,252.0,Non_veg,,13.0,0.0,room_temperature,False,,,True,True
+Fish Rohu ,kg,packet,1.0,160.0,Non_veg,,60.0,0.0,room_temperature,False,,,True,True
 Prawns Fish ,kg,packet,1.0,1210.0,Non_veg,,,0.0,room_temperature,False,,,True,True
-Mutton Fresh ,kg,packet,1.0,210.0,Non_veg,,,0.0,room_temperature,False,,,True,True
+Mutton Fresh ,kg,packet,1.0,210.0,Non_veg,,30.0,0.0,room_temperature,False,,,True,True
 Mutton Curry Cut ,kg,packet,1.0,500.0,Non_veg,,,0.0,room_temperature,False,,,True,True
-Chicken Sauce ,kg,packet,1.0,500.0,Non_veg,,,0.0,room_temperature,False,,,True,True
+Chicken Sauce ,kg,packet,1.0,500.0,Non_veg,,3.0,0.0,room_temperature,False,,,True,True
 Tuna Fish - In Brine ,can,can,1.0,125.0,Non_veg,,,0.0,room_temperature,False,,GOLDEN CROWN ,True,True
-Atta Wheat ,kg,packet,0.03,33.4,Flour,,1050.0,0.0,room_temperature,False,,TAPARIA ,True,True
-Maida ,kg,packet,0.045,35.0,Flour,,135.0,0.0,room_temperature,False,,TAPARIA ,True,True
-Besan ,kg,packet,1.0,90.0,Flour,,55.0,0.0,room_temperature,False,,TAPARIA ,True,True
+Atta Wheat ,kg,packet,0.03,33.4,Flour,,420.0,0.0,room_temperature,False,,TAPARIA ,True,True
+Maida ,kg,packet,0.045,35.0,Flour,,60.0,0.0,room_temperature,False,,TAPARIA ,True,True
+Besan ,kg,packet,1.0,90.0,Flour,,60.0,0.0,room_temperature,False,,TAPARIA ,True,True
 Besan ,kg,packet,1.0,94.5,Flour,,,0.0,room_temperature,False,,TAPARIA ,True,True
-Corn Flour ,kg,packet,1.0,60.0,Flour,,4.0,0.0,room_temperature,False,,,True,True
+Corn Flour ,kg,packet,1.0,60.0,Flour,,9.0,0.0,room_temperature,False,,,True,True
 Atta 00 Piza Flour,kg,packet,1.0,135.0,Flour,,,0.0,room_temperature,False,,,True,True
 "Mango,Apple",liter,bottle,1.0,86.25,Beverages_biscuits,,,0.0,room_temperature,False,,REAL FRUIT JUICE ,True,True
 "Pineapple, Mix, Orange",liter,bottle,1.0,97.49,Beverages_biscuits,,,0.0,room_temperature,False,,REAL FRUIT JUICE ,True,True
 Guava ,liter,bottle,1.0,90.0,Beverages_biscuits,,,0.0,room_temperature,False,,REAL FRUIT JUICE ,True,True
 Mix Fruit Juice ,liter,bottle,1.2,66.66,Beverages_biscuits,,,0.0,room_temperature,False,,,True,True
-Mix Fruit Juice ,liter,bottle,0.6,31.79,Beverages_biscuits,,,0.0,room_temperature,False,,PAPER BOAT ,True,True
+Mix Fruit Juice ,liter,bottle,0.6,31.79,Beverages_biscuits,,80.0,0.0,room_temperature,False,,PAPER BOAT ,True,True
 Juice  125 Ml,liter,bottle,0.125,8.67,Beverages_biscuits,,,0.0,room_temperature,False,,PAPER BOAT ,True,True
 Mango Juice ,liter,bottle,0.125,8.67,Beverages_biscuits,,,0.0,room_temperature,False,,MAAZA ,True,True
 Cold Drink ,liter,bottle,2.5,92.22,Beverages_biscuits,,,0.0,room_temperature,False,,COCA COLA ,True,True
@@ -52,11 +52,11 @@ Water Mineral,liter,bottle,1.0,9.16,Beverages_biscuits,,,0.0,room_temperature,Fa
  Water Mineral,liter,bottle,0.5,6.66,Beverages_biscuits,,,0.0,room_temperature,False,,BISLERI ,True,True
  Water Mineral,liter,bottle,0.25,5.0,Beverages_biscuits,,,0.0,room_temperature,False,,BISLERI ,True,True
 Biscuit Rs 5,packet,packet,1.0,4.54,Beverages_biscuits,,,0.0,room_temperature,False,,,True,True
-Biscuit Rs 10,packet,packet,1.0,8.6,Beverages_biscuits,,,0.0,room_temperature,False,,,True,True
+Biscuit Rs 10,packet,packet,1.0,8.6,Beverages_biscuits,,50.0,0.0,room_temperature,False,,,True,True
 Namkeen Rs 5,packet,packet,1.0,3.95,Beverages_biscuits,,,0.0,room_temperature,False,,,True,True
-Namkeen Rs 10,packet,packet,1.0,7.55,Beverages_biscuits,,,0.0,room_temperature,False,,,True,True
+Namkeen Rs 10,packet,packet,1.0,7.55,Beverages_biscuits,,50.0,0.0,room_temperature,False,,,True,True
 Muesli ,packet,packet,1.0,602.0,Beverages_biscuits,,,0.0,room_temperature,False,,TATA ,True,True
-Lays ,packet,packet,1.0,9.0,Beverages_biscuits,,,0.0,room_temperature,False,,,True,True
+Lays ,packet,packet,1.0,9.0,Beverages_biscuits,,50.0,0.0,room_temperature,False,,,True,True
 Kurkure ,packet,packet,1.0,9.0,Beverages_biscuits,,,0.0,room_temperature,False,,,True,True
 Namkeen,packet,packet,1.0,90.0,Beverages_biscuits,,,0.0,room_temperature,False,,,True,True
 Biscuit Rs 25 ,packet,packet,1.0,19.0,Beverages_biscuits,,,0.0,room_temperature,False,,,True,True
@@ -69,73 +69,73 @@ Khush Sharbat,liter,bottle,1.0,227.0,Beverages_biscuits,,,0.0,room_temperature,F
 Rose Marry,packet,packet,1.0,180.0,Beverages_biscuits,,,5.0,room_temperature,False,0.0,,True,True
 Rose Sharbat,liter,bottle,1.0,312.0,Beverages_biscuits,,,45.0,room_temperature,False,0.0,,True,True
 Thandai,liter,bottle,1.0,345.0,Beverages_biscuits,,,0.0,room_temperature,False,,,True,True
-Kitchen King ,packet,packet,1.0,63.65,Spices,,21.0,0.0,room_temperature,False,,TATA ,True,True
+Kitchen King ,packet,packet,1.0,63.65,Spices,,25.0,0.0,room_temperature,False,,TATA ,True,True
 Chole Masala ,packet,packet,1.0,62.31,Spices,,3.0,0.0,room_temperature,False,,TATA ,True,True
-Chat Masala ,packet,packet,1.0,60.3,Spices,,6.0,0.0,room_temperature,False,,TATA ,True,True
-Meat Masala ,packet,packet,1.0,65.0,Spices,,,0.0,room_temperature,False,,TATA ,True,True
-Chicken Masala ,packet,packet,1.0,65.0,Spices,,2.0,0.0,room_temperature,False,,TATA ,True,True
-Salt ,packet,packet,1.0,25.0,Spices,,,0.0,room_temperature,False,,TATA ,True,True
-Salt ,packet,packet,1.0,13.7,Spices,,70.0,0.0,room_temperature,False,,NIRMA ,True,True
+Chat Masala ,packet,packet,1.0,60.3,Spices,,5.0,0.0,room_temperature,False,,TATA ,True,True
+Meat Masala ,packet,packet,1.0,65.0,Spices,,5.0,0.0,room_temperature,False,,TATA ,True,True
+Chicken Masala ,packet,packet,1.0,65.0,Spices,,5.0,0.0,room_temperature,False,,TATA ,True,True
+Salt ,packet,packet,1.0,25.0,Spices,,5.0,0.0,room_temperature,False,,TATA ,True,True
+Salt ,packet,packet,1.0,13.7,Spices,,25.0,0.0,room_temperature,False,,NIRMA ,True,True
 Salt ,packet,packet,1.0,6.64,Spices,,,0.0,room_temperature,False,,TAPARIA ,True,True
 Salt Sandha,packet,packet,1.0,34.0,Spices,,,0.0,room_temperature,False,,,True,True
-Briyani Masala ,packet,packet,1.0,61.0,Spices,,2.0,0.0,room_temperature,False,,CATCH ,True,True
+Briyani Masala ,packet,packet,1.0,61.0,Spices,,5.0,0.0,room_temperature,False,,CATCH ,True,True
 Tea Masala ,packet,packet,1.0,49.0,Spices,,,0.0,room_temperature,False,,CATCH ,True,True
-Hing ,liter,bottle,0.1,188.0,Spices,,7.0,0.0,room_temperature,False,,CATCH ,True,True
-Kashmiri Lal Red Chilli Powder ,kg,packet,1.0,640.0,Spices,,4.0,0.0,room_temperature,False,,CATCH ,True,True
+Hing ,liter,bottle,0.1,188.0,Spices,,15.0,0.0,room_temperature,False,,CATCH ,True,True
+Kashmiri Lal Red Chilli Powder ,kg,packet,1.0,640.0,Spices,,5.0,0.0,room_temperature,False,,CATCH ,True,True
 Rajma Masala ,packet,packet,1.0,64.0,Spices,,1.0,0.0,room_temperature,False,,CATCH ,True,True
-Sambhar Masala ,packet,packet,1.0,88.0,Spices,,2.0,0.0,room_temperature,False,,CATCH ,True,True
-Pav Bhaji Masala ,packet,packet,1.0,75.0,Spices,,,0.0,room_temperature,False,,CATCH ,True,True
+Sambhar Masala ,packet,packet,1.0,88.0,Spices,,3.0,0.0,room_temperature,False,,CATCH ,True,True
+Pav Bhaji Masala ,packet,packet,1.0,75.0,Spices,,1.0,0.0,room_temperature,False,,CATCH ,True,True
 White Pepper Masala ,kg,packet,1.0,1500.0,Spices,,,0.0,room_temperature,False,,CATCH ,True,True
 Rasam Masala ,packet,packet,1.0,57.0,Spices,,,0.0,room_temperature,False,,FLAVARICH ,True,True
-Kasturi Methi ,packet,packet,1.0,44.0,Spices,,15.0,0.0,room_temperature,False,,PUNEET MASALA ,True,True
-Pani Puri Masala ,kg,packet,0.1,67.0,Spices,,,0.0,room_temperature,False,,AMAZING ,True,True
-Jeera  ,kg,packet,1.0,241.0,Spices,,4.0,0.0,room_temperature,False,,,True,True
+Kasturi Methi ,packet,packet,1.0,44.0,Spices,,21.0,0.0,room_temperature,False,,PUNEET MASALA ,True,True
+Pani Puri Masala ,kg,packet,0.1,67.0,Spices,,1.0,0.0,room_temperature,False,,AMAZING ,True,True
+Jeera  ,kg,packet,1.0,241.0,Spices,,5.0,0.0,room_temperature,False,,,True,True
 Salt White Pouch  250,packet,packet,1.0,50.0,Spices,,,0.0,room_temperature,False,,,True,True
 Salt Black Pouch 250 ,packet,packet,1.0,160.0,Spices,,,0.0,room_temperature,False,,,True,True
-Methi Sabut ,kg,packet,1.0,94.0,Spices,,,0.0,room_temperature,False,,,True,True
-Rai ,kg,packet,1.0,75.6,Spices,,3.0,0.0,room_temperature,False,,,True,True
-Amchur ,kg,packet,1.0,150.0,Spices,,,0.0,room_temperature,False,,,True,True
-Haldi Powder ,kg,packet,1.0,208.0,Spices,,8.0,0.0,room_temperature,False,,,True,True
-Red Chilli Powder ,kg,packet,1.0,194.0,Spices,,15.0,0.0,room_temperature,False,,,True,True
-Dhania Powder ,kg,packet,1.0,134.0,Spices,,10.0,0.0,room_temperature,False,,,True,True
-Red Chilli Sabut ,kg,packet,1.0,169.0,Spices,,3.0,0.0,room_temperature,False,,,True,True
-Dhania Sabut ,kg,packet,1.0,93.0,Spices,,1.0,0.0,room_temperature,False,,,True,True
-Black Pepper ,kg,packet,1.0,360.0,Spices,,0.5,0.0,room_temperature,False,,,True,True
-Dal Chini ,kg,packet,1.0,260.0,Spices,,,0.0,room_temperature,False,,,True,True
-Elachi Big ,kg,packet,1.0,1950.0,Spices,,,0.0,room_temperature,False,,,True,True
-Star Phool ,kg,packet,1.0,380.0,Spices,,,0.0,room_temperature,False,,,True,True
-Tez Pata ,kg,packet,1.0,100.0,Spices,,,0.0,room_temperature,False,,,True,True
-Elachi Hari ,kg,packet,1.0,3200.0,Spices,,,0.0,room_temperature,False,,,True,True
+Methi Sabut ,kg,packet,1.0,94.0,Spices,,0.2,0.0,room_temperature,False,,,True,True
+Rai ,kg,packet,1.0,75.6,Spices,,,0.0,room_temperature,False,,,True,True
+Amchur ,kg,packet,1.0,150.0,Spices,,1.0,0.0,room_temperature,False,,,True,True
+Haldi Powder ,kg,packet,1.0,208.0,Spices,,0.2,0.0,room_temperature,False,,,True,True
+Red Chilli Powder ,kg,packet,1.0,194.0,Spices,,8.0,0.0,room_temperature,False,,,True,True
+Dhania Powder ,kg,packet,1.0,134.0,Spices,,9.0,0.0,room_temperature,False,,,True,True
+Red Chilli Sabut ,kg,packet,1.0,169.0,Spices,,2.0,0.0,room_temperature,False,,,True,True
+Dhania Sabut ,kg,packet,1.0,93.0,Spices,,0.5,0.0,room_temperature,False,,,True,True
+Black Pepper ,kg,packet,1.0,360.0,Spices,,1.0,0.0,room_temperature,False,,,True,True
+Dal Chini ,kg,packet,1.0,260.0,Spices,,0.5,0.0,room_temperature,False,,,True,True
+Elachi Big ,kg,packet,1.0,1950.0,Spices,,0.5,0.0,room_temperature,False,,,True,True
+Star Phool ,kg,packet,1.0,380.0,Spices,,0.5,0.0,room_temperature,False,,,True,True
+Tez Pata ,kg,packet,1.0,100.0,Spices,,0.5,0.0,room_temperature,False,,,True,True
+Elachi Hari ,kg,packet,1.0,3200.0,Spices,,0.1,0.0,room_temperature,False,,,True,True
 Kalonji,kg,packet,1.0,266.77,Spices,,,0.0,room_temperature,False,,,True,True
-Long,kg,packet,1.0,780.0,Spices,,,0.0,room_temperature,False,,,True,True
+Long,kg,packet,1.0,780.0,Spices,,0.5,0.0,room_temperature,False,,,True,True
 Javetri,kg,packet,1.0,1872.0,Spices,,,0.0,room_temperature,False,,,True,True
-Black Salt ,kg,packet,1.0,30.0,Spices,,6.0,0.0,room_temperature,False,,,True,True
-Khada Masala ,kg,packet,1.0,1256.0,Spices,,1.0,0.0,room_temperature,False,,,True,True
-Aromat Seasoning Powder,packet,packet,1.0,215.0,Spices,,,0.0,room_temperature,False,,KNORR,True,True
+Black Salt ,kg,packet,1.0,30.0,Spices,,5.0,0.0,room_temperature,False,,,True,True
+Khada Masala ,kg,packet,1.0,1256.0,Spices,,2.0,0.0,room_temperature,False,,,True,True
+Aromat Seasoning Powder,packet,packet,1.0,215.0,Spices,,1.0,0.0,room_temperature,False,,KNORR,True,True
 Bileching Powder,packet,packet,1.0,32.06,Spices,,,0.0,room_temperature,False,,,True,True
 Peri Peri Masala,packet,packet,1.0,150.0,Spices,,,0.0,room_temperature,False,,,True,True
-Sugar Loose ,kg,packet,1.0,43.5,Sugar,,10.0,0.0,room_temperature,False,,,True,True
-Sugar Candy ,kg,packet,1.0,54.0,Sugar,,,0.0,room_temperature,False,,,True,True
+Sugar Loose ,kg,packet,1.0,43.5,Sugar,,100.0,0.0,room_temperature,False,,,True,True
+Sugar Candy ,kg,packet,1.0,54.0,Sugar,,2.0,0.0,room_temperature,False,,,True,True
 Sugar Cube ,kg,packet,0.5,48.0,Sugar,,,0.0,room_temperature,False,,DAURALA ,True,True
 Sugar Free,packet,packet,1.0,100.0,Sugar,,,0.0,room_temperature,False,,,True,True
-Staff Rice ,kg,packet,1.0,36.0,Rice,,,0.0,room_temperature,False,,,True,True
-Briyani Rice 48 No.,kg,packet,1.0,64.5,Rice,,30.0,0.0,room_temperature,False,,AMEENA ,True,True
+Staff Rice ,kg,packet,1.0,36.0,Rice,,60.0,0.0,room_temperature,False,,,True,True
+Briyani Rice 48 No.,kg,packet,1.0,64.5,Rice,,12.0,0.0,room_temperature,False,,AMEENA ,True,True
 Briyani Rice 52 No.,kg,packet,1.0,67.74,Rice,,,0.0,room_temperature,False,,,True,True
-Guest Rice ,kg,packet,1.0,43.0,Rice,,420.0,0.0,room_temperature,False,,JEEBA ,True,True
-Dosa Kani ,kg,packet,1.0,35.0,Rice,,,0.0,room_temperature,False,,JEEBA ,True,True
+Guest Rice ,kg,packet,1.0,43.0,Rice,,,0.0,room_temperature,False,,JEEBA ,True,True
+Dosa Kani ,kg,packet,1.0,35.0,Rice,,7.0,0.0,room_temperature,False,,JEEBA ,True,True
 Dawat Rice ,kg,packet,1.0,99.75,Rice,,,0.0,room_temperature,False,,JASAL A ONE ,True,True
 Briyani Rice  ,kg,packet,1.0,68.5,Rice,,,0.0,room_temperature,False,,INDIA GATE ,True,True
 Regular Choice Rice ,kg,packet,1.0,74.2,Rice,,,0.0,room_temperature,False,,INDIA GATE ,True,True
-Mushroom Button ,can,can,1.0,86.45,Tin,,,0.0,room_temperature,False,,FRUTINS,True,True
-Mushroom Slice ,can,can,1.0,58.3,Tin,,,0.0,room_temperature,False,,FRUTINS,True,True
+Mushroom Button ,can,can,1.0,86.45,Tin,,8.0,0.0,room_temperature,False,,FRUTINS,True,True
+Mushroom Slice ,can,can,1.0,58.3,Tin,,4.0,0.0,room_temperature,False,,FRUTINS,True,True
 Pineapple Slice ,can,can,1.0,85.87,Tin,,,0.0,room_temperature,False,,FRUTINS,True,True
-Fruit Cocktail ,can,can,1.0,85.87,Tin,,,0.0,room_temperature,False,,FRUTINS,True,True
-Tomato Puree,can,can,1.0,47.83,Tin,,,0.0,room_temperature,False,,FRUTINS,True,True
+Fruit Cocktail ,can,can,1.0,85.87,Tin,,2.0,0.0,room_temperature,False,,FRUTINS,True,True
+Tomato Puree,can,can,1.0,47.83,Tin,,12.0,0.0,room_temperature,False,,FRUTINS,True,True
 Red Cheeries ,can,can,1.0,107.8,Tin,,,0.0,room_temperature,False,,FRUTINS,True,True
-Baby Corn,can,can,1.0,47.11,Tin,,,0.0,room_temperature,False,,FRUTINS,True,True
+Baby Corn,can,can,1.0,47.11,Tin,,8.0,0.0,room_temperature,False,,FRUTINS,True,True
 Coconut Milk ,can,can,1.0,155.0,Tin,,,0.0,room_temperature,False,,FRUTINS,True,True
 Bamboo Shoot,can,can,1.0,77.0,Tin,,,0.0,room_temperature,False,,FRUTINS,True,True
-Sweet Corn Cream Style ,can,can,1.0,29.33,Tin,,,0.0,room_temperature,False,,FRUTINS,True,True
+Sweet Corn Cream Style ,can,can,1.0,29.33,Tin,,2.0,0.0,room_temperature,False,,FRUTINS,True,True
 Chipo.Papeer In Adoba Sauce2.8,can,can,1.0,2156.0,Tin,,,0.0,room_temperature,False,,,True,True
 Red Cherries Syrup,can,can,1.0,91.65,Tin,,,0.0,room_temperature,False,,,True,True
 Green Chilli Sauce,liter,bottle,0.68,45.0,Sauce_jam_pickle,,,0.0,room_temperature,False,,CHINGH,True,True
@@ -145,34 +145,34 @@ Green Chilli Sauce  ,liter,bottle,4.5,235.0,Sauce_jam_pickle,,,0.0,room_temperat
 Red Chilli Sauce  ,liter,bottle,4.5,235.0,Sauce_jam_pickle,,,0.0,room_temperature,False,,EVERPLUS ,True,True
 Tomyom Sauce,liter,bottle,1.0,470.0,Sauce_jam_pickle,,,0.0,room_temperature,False,,,True,True
 Soya Sauce  ,liter,bottle,5.0,235.0,Sauce_jam_pickle,,,0.0,room_temperature,False,,EVERPLUS ,True,True
-Barbecus Sauce,liter,bottle,0.51,229.41,Sauce_jam_pickle,,,0.0,room_temperature,False,,,True,True
-Worsterd Sauce,liter,bottle,0.75,51.41,Sauce_jam_pickle,,,0.0,room_temperature,False,,,True,True
-Mix Pickle ,liter,bottle,5.0,245.0,Sauce_jam_pickle,,,0.0,room_temperature,False,,EVERPLUS ,True,True
-Mix Jam ,liter,bottle,4.5,350.0,Sauce_jam_pickle,,5.0,0.0,room_temperature,False,,EVERPLUS ,True,True
-Tomato Ketchup ,liter,bottle,1.2,82.0,Sauce_jam_pickle,,,0.0,room_temperature,False,,DR OETKER ,True,True
+Barbecus Sauce,liter,bottle,0.51,229.41,Sauce_jam_pickle,,3.0,0.0,room_temperature,False,,,True,True
+Worsterd Sauce,liter,bottle,0.75,51.41,Sauce_jam_pickle,,3.0,0.0,room_temperature,False,,,True,True
+Mix Pickle ,liter,bottle,5.0,245.0,Sauce_jam_pickle,,1.0,0.0,room_temperature,False,,EVERPLUS ,True,True
+Mix Jam ,liter,bottle,4.5,350.0,Sauce_jam_pickle,,1.0,0.0,room_temperature,False,,EVERPLUS ,True,True
+Tomato Ketchup ,liter,bottle,1.2,82.0,Sauce_jam_pickle,,6.0,0.0,room_temperature,False,,DR OETKER ,True,True
 Tomato Ketchup ,packet,packet,1.0,190.0,Sauce_jam_pickle,,,0.0,room_temperature,False,,KISHAN,True,True
 Tomato Ketchup,packet,packet,1.0,230.0,Sauce_jam_pickle,,,0.0,room_temperature,False,,,True,True
 Tomato Ketchup Poucs,packet,packet,1.0,65.0,Sauce_jam_pickle,,,0.0,room_temperature,False,,,True,True
 Mix Pickle ,liter,bottle,0.95,114.0,Sauce_jam_pickle,,,0.0,room_temperature,False,,EVEREST ,True,True
-Green Chilli Pickle ,liter,bottle,0.95,170.0,Sauce_jam_pickle,,,0.0,room_temperature,False,,EVEREST ,True,True
-8 To 8 Sauce ,liter,bottle,0.2,80.0,Sauce_jam_pickle,,,0.0,room_temperature,False,,GOLDEN CROWN ,True,True
+Green Chilli Pickle ,liter,bottle,0.95,170.0,Sauce_jam_pickle,,2.0,0.0,room_temperature,False,,EVEREST ,True,True
+8 To 8 Sauce ,liter,bottle,0.2,80.0,Sauce_jam_pickle,,3.0,0.0,room_temperature,False,,GOLDEN CROWN ,True,True
 Peri Peri Mayo Viba,packet,packet,1.0,185.0,Sauce_jam_pickle,,,0.0,room_temperature,False,,,True,True
 Tandoori Mayonise Cream,packet,packet,1.0,190.0,Sauce_jam_pickle,,,0.0,room_temperature,False,,,True,True
-Mayonise Cream ,packet,packet,1.0,100.0,Sauce_jam_pickle,,,0.0,room_temperature,False,,DR OETKER ,True,True
-Oyster Sauce ,liter,bottle,0.51,225.0,Sauce_jam_pickle,,,0.0,room_temperature,False,,LEE KUM KEE ,True,True
+Mayonise Cream ,packet,packet,1.0,100.0,Sauce_jam_pickle,,8.0,0.0,room_temperature,False,,DR OETKER ,True,True
+Oyster Sauce ,liter,bottle,0.51,225.0,Sauce_jam_pickle,,3.0,0.0,room_temperature,False,,LEE KUM KEE ,True,True
 Mustard Sauce ,liter,bottle,1.0,125.0,Sauce_jam_pickle,,3.0,0.0,room_temperature,False,,GOLDEN CROWN ,True,True
-Veg Worcester Shire Sauce ,liter,bottle,0.2,48.75,Sauce_jam_pickle,,,0.0,room_temperature,False,,,True,True
-H P Sauce ,liter,bottle,0.2,205.0,Sauce_jam_pickle,,,0.0,room_temperature,False,,,True,True
+Veg Worcester Shire Sauce ,liter,bottle,0.2,48.75,Sauce_jam_pickle,,3.0,0.0,room_temperature,False,,,True,True
+H P Sauce ,liter,bottle,0.2,205.0,Sauce_jam_pickle,,3.0,0.0,room_temperature,False,,,True,True
 Pickle Mixed Vegetable ,liter,bottle,0.3,110.0,Sauce_jam_pickle,,,0.0,room_temperature,False,,PRIYA ,True,True
 Green Chilli Pickle ,liter,bottle,0.5,130.0,Sauce_jam_pickle,,,0.0,room_temperature,False,,KHTARIJI ,True,True
 Mix Fruit Jam ,liter,bottle,1.0,105.0,Sauce_jam_pickle,,,0.0,room_temperature,False,,,True,True
 Mixed Vegetable Pickle ,liter,bottle,0.3,93.49,Sauce_jam_pickle,,,0.0,room_temperature,False,,PRIYA ,True,True
-Barbecue Sauce,liter,bottle,0.51,243.0,Sauce_jam_pickle,,,0.0,room_temperature,False,,GOLDEN CROWN,True,True
+Barbecue Sauce,liter,bottle,0.51,243.0,Sauce_jam_pickle,,3.0,0.0,room_temperature,False,,GOLDEN CROWN,True,True
 Nachose Chips,packet,packet,1.0,79.79,Sauce_jam_pickle,,,0.0,room_temperature,False,,,True,True
 Nimboo Sat,packet,packet,1.0,216.52,Sauce_jam_pickle,,,0.0,room_temperature,False,,,True,True
-Oyester Sauce,liter,bottle,0.75,222.0,Sauce_jam_pickle,,,0.0,room_temperature,False,,,True,True
+Oyester Sauce,liter,bottle,0.75,222.0,Sauce_jam_pickle,,3.0,0.0,room_temperature,False,,,True,True
 Piza Pista Sauce,liter,bottle,1.0,155.0,Sauce_jam_pickle,,,0.0,room_temperature,False,,,True,True
-Pineapple  ,liter,bottle,1.0,196.0,Crush,,1.0,0.0,room_temperature,False,,,True,True
+Pineapple  ,liter,bottle,1.0,196.0,Crush,,2.0,0.0,room_temperature,False,,,True,True
 Banana Crush,liter,bottle,0.001,201.0,Crush,,,0.0,room_temperature,False,,,True,True
 Blue Curaco Cursh,liter,bottle,0.001,276.75,Crush,,,0.0,room_temperature,False,,,True,True
 Guava Crush ,liter,bottle,0.75,155.79,Crush,,,0.0,room_temperature,False,,,True,True
@@ -181,37 +181,37 @@ Kokam Crush,liter,bottle,0.75,193.75,Crush,,,0.0,room_temperature,False,,,True,T
 Mango Crush,liter,bottle,0.75,186.0,Crush,,,0.0,room_temperature,False,,,True,True
 Strawverry Crush,liter,bottle,0.75,184.5,Crush,,,0.0,room_temperature,False,,,True,True
 Litchi Crush 1Ltr 240/-,liter,bottle,1.0,196.0,Crush,,,0.0,room_temperature,False,,,True,True
-Refined Oil ,can,can,1.0,1900.0,Oils,,18.0,0.0,room_temperature,False,,BEST CHOICE ,True,True
-Musstard Oil ,liter,bottle,1.0,166.0,Oils,,,0.0,room_temperature,False,,ENGINE ,True,True
-Olive Oil  ,liter,bottle,1.0,725.0,Oils,,,0.0,room_temperature,False,,BASSO ,True,True
-Green Olive Oil ,liter,bottle,0.42,200.0,Oils,,,0.0,room_temperature,False,,FIGARO ,True,True
-Black Olive Oil ,liter,bottle,0.42,200.0,Oils,,,0.0,room_temperature,False,,FIGARO ,True,True
+Refined Oil ,can,can,1.0,1900.0,Oils,,12.0,0.0,room_temperature,False,,BEST CHOICE ,True,True
+Musstard Oil ,liter,bottle,1.0,166.0,Oils,,2.0,0.0,room_temperature,False,,ENGINE ,True,True
+Olive Oil  ,liter,bottle,1.0,725.0,Oils,,2.0,0.0,room_temperature,False,,BASSO ,True,True
+Green Olive Oil ,liter,bottle,0.42,200.0,Oils,,0.5,0.0,room_temperature,False,,FIGARO ,True,True
+Black Olive Oil ,liter,bottle,0.42,200.0,Oils,,0.5,0.0,room_temperature,False,,FIGARO ,True,True
 Salad Oil,liter,bottle,0.05,122.7,Oils,,,0.0,room_temperature,False,,,True,True
-Gulab Jal ,liter,bottle,0.5,65.0,Water,,,0.0,room_temperature,False,,GOLDEN CROWN ,True,True
-Gulab Jal ,liter,bottle,1.0,90.0,Water,,1.0,0.0,room_temperature,False,,GOLDEN CROWN ,True,True
+Gulab Jal ,liter,bottle,0.5,65.0,Water,,1.0,0.0,room_temperature,False,,GOLDEN CROWN ,True,True
+Gulab Jal ,liter,bottle,1.0,90.0,Water,,,0.0,room_temperature,False,,GOLDEN CROWN ,True,True
 Gulab Jal ,liter,bottle,0.25,45.0,Water,,,0.0,room_temperature,False,,GOLDEN CROWN ,True,True
 Kewra Water ,liter,bottle,0.5,50.0,Water,,1.0,0.0,room_temperature,False,,GOLDEN CROWN ,True,True
 Vinegar ,liter,bottle,0.68,35.0,Water,,3.0,0.0,room_temperature,False,,GOLDEN CROWN ,True,True
 Kewra Water ,liter,bottle,0.25,50.0,Water,,,0.0,room_temperature,False,,DABUR ,True,True
-Dal Moong Mogar ,kg,packet,1.0,96.0,Pulses,,45.0,0.0,room_temperature,False,,,True,True
+Dal Moong Mogar ,kg,packet,1.0,96.0,Pulses,,15.0,0.0,room_temperature,False,,,True,True
 Dal Green Moong Sabut ,kg,packet,1.0,89.0,Pulses,,,0.0,room_temperature,False,,,True,True
-Dal White Mutter  ,kg,packet,1.0,43.0,Pulses,,18.0,0.0,room_temperature,False,,,True,True
-Dal Channa ,kg,packet,1.0,74.0,Pulses,,24.0,0.0,room_temperature,False,,,True,True
-Dal Rajma ,kg,packet,1.0,118.0,Pulses,,10.0,0.0,room_temperature,False,,,True,True
-Dal Kala Urd Chilka ,kg,packet,1.0,99.0,Pulses,,,0.0,room_temperature,False,,,True,True
-Dal Kala Urd Sabut ,kg,packet,1.0,94.0,Pulses,,,0.0,room_temperature,False,,,True,True
-Dal Taur  ,kg,packet,1.0,105.0,Pulses,,45.0,0.0,room_temperature,False,,,True,True
-Black Channa ,kg,packet,1.0,60.0,Pulses,,20.0,0.0,room_temperature,False,,,True,True
-Dal Lobia ,kg,packet,1.0,84.0,Pulses,,,0.0,room_temperature,False,,,True,True
-Kabuli Channa ,kg,packet,1.0,102.0,Pulses,,35.0,0.0,room_temperature,False,,,True,True
-Dal Roasted Channa  ,kg,packet,1.0,89.0,Pulses,,12.0,0.0,room_temperature,False,,,True,True
-Dal Green Moong Chilka ,kg,packet,1.0,89.0,Pulses,,25.0,0.0,room_temperature,False,,,True,True
-Dal Red Masur  ,kg,packet,1.0,72.0,Pulses,,25.0,0.0,room_temperature,False,,,True,True
-Dal Black Masur  ,kg,packet,1.0,70.0,Pulses,,6.0,0.0,room_temperature,False,,,True,True
-Dal White Urd  ,kg,packet,1.0,102.0,Pulses,,10.0,0.0,room_temperature,False,,,True,True
+Dal White Mutter  ,kg,packet,1.0,43.0,Pulses,,5.0,0.0,room_temperature,False,,,True,True
+Dal Channa ,kg,packet,1.0,74.0,Pulses,,,0.0,room_temperature,False,,,True,True
+Dal Rajma ,kg,packet,1.0,118.0,Pulses,,15.0,0.0,room_temperature,False,,,True,True
+Dal Kala Urd Chilka ,kg,packet,1.0,99.0,Pulses,,2.0,0.0,room_temperature,False,,,True,True
+Dal Kala Urd Sabut ,kg,packet,1.0,94.0,Pulses,,4.0,0.0,room_temperature,False,,,True,True
+Dal Taur  ,kg,packet,1.0,105.0,Pulses,,22.0,0.0,room_temperature,False,,,True,True
+Black Channa ,kg,packet,1.0,60.0,Pulses,,15.0,0.0,room_temperature,False,,,True,True
+Dal Lobia ,kg,packet,1.0,84.0,Pulses,,1.0,0.0,room_temperature,False,,,True,True
+Kabuli Channa ,kg,packet,1.0,102.0,Pulses,,12.0,0.0,room_temperature,False,,,True,True
+Dal Roasted Channa  ,kg,packet,1.0,89.0,Pulses,,3.0,0.0,room_temperature,False,,,True,True
+Dal Green Moong Chilka ,kg,packet,1.0,89.0,Pulses,,2.0,0.0,room_temperature,False,,,True,True
+Dal Red Masur  ,kg,packet,1.0,72.0,Pulses,,6.0,0.0,room_temperature,False,,,True,True
+Dal Black Masur  ,kg,packet,1.0,70.0,Pulses,,11.0,0.0,room_temperature,False,,,True,True
+Dal White Urd  ,kg,packet,1.0,102.0,Pulses,,15.0,0.0,room_temperature,False,,,True,True
 Curry Powder ,jar,jar,1.0,495.0,Pulses,,,0.0,room_temperature,False,,BOLTS ,True,True
 Oats ,jar,jar,1.0,80.0,Pulses,,,0.0,room_temperature,False,,SHANTIS ,True,True
-Kismis (Raisins),kg,packet,1.0,300.0,Pulses,,,0.0,room_temperature,False,,,True,True
+Kismis (Raisins),kg,packet,1.0,300.0,Pulses,,0.4,0.0,room_temperature,False,,,True,True
 Match Box ,piece,individual,1.0,1.0,Pulses,,,0.0,room_temperature,False,,,True,True
 Pista Cutting,packet,packet,1.0,780.0,Pulses,,,0.0,room_temperature,False,,,True,True
 Pista ,kg,packet,1.0,790.0,Pulses,,,0.0,room_temperature,False,,,True,True
@@ -221,70 +221,70 @@ Akhrote",kg,packet,1.0,1034.0,Pulses,,,0.0,room_temperature,False,,,True,True
 Eno 185Mrp,liter,bottle,0.1,170.0,Pulses,,,0.0,room_temperature,False,,,True,True
 Nutrella Spread,liter,bottle,0.35,350.0,Pulses,,,0.0,room_temperature,False,,,True,True
 Nutrella Spread,liter,bottle,0.75,632.43,Pulses,,,0.0,room_temperature,False,,,True,True
-Desi Ghee ,kg,packet,1.0,500.0,Ghee,,2.0,0.0,room_temperature,False,,KSHEER,True,True
-Dalda Ghee ,kg,packet,1.0,140.0,Ghee,,,0.0,room_temperature,False,,SCOTTER ,True,True
-Silevada ,kg,packet,1.0,48.0,Papad,,,0.0,room_temperature,False,,CHETAK ,True,True
-Papad ,kg,packet,0.2,34.0,Papad,,,0.0,room_temperature,False,,VISHAL ,True,True
-Jeera Papad ,kg,packet,0.5,43.0,Papad,,,0.0,room_temperature,False,,ZAKAS ,True,True
+Desi Ghee ,kg,packet,1.0,500.0,Ghee,,9.0,0.0,room_temperature,False,,KSHEER,True,True
+Dalda Ghee ,kg,packet,1.0,140.0,Ghee,,7.0,0.0,room_temperature,False,,SCOTTER ,True,True
+Silevada ,kg,packet,1.0,48.0,Papad,,5.0,0.0,room_temperature,False,,CHETAK ,True,True
+Papad ,kg,packet,0.2,34.0,Papad,,40.0,0.0,room_temperature,False,,VISHAL ,True,True
+Jeera Papad ,kg,packet,0.5,43.0,Papad,,6.0,0.0,room_temperature,False,,ZAKAS ,True,True
 Madrasi Papad ,kg,packet,0.09,20.0,Papad,,,0.0,room_temperature,False,,SRI MEENAKSHI TRADERS ,True,True
 Khichiya Papad ,kg,packet,1.0,100.0,Papad,,,0.0,room_temperature,False,,,True,True
 Lijjat Papad,kg,packet,1.0,340.0,Papad,,,0.0,room_temperature,False,,,True,True
 Coconut Powder ,kg,packet,1.0,288.0,Kitchen,,6.0,0.0,room_temperature,False,,AMIRAS ,True,True
-Noodles ,kg,packet,0.8,56.25,Kitchen,,,0.0,room_temperature,False,,GOLDEN CROWN ,True,True
-Vermicelli ,kg,packet,0.8,80.75,Kitchen,,21.0,0.0,room_temperature,False,,BAMBINO ,True,True
-White Dalia ,kg,packet,1.0,40.0,Kitchen,,10.0,0.0,room_temperature,False,,JAGDISH ,True,True
-Poha ,kg,packet,1.0,52.0,Kitchen,,20.0,0.0,room_temperature,False,,TAPARIA ,True,True
-Sev Mota ,kg,packet,1.0,200.0,Kitchen,,10.0,0.0,room_temperature,False,,,True,True
-Sev Barik ,kg,packet,1.0,210.0,Kitchen,,,0.0,room_temperature,False,,,True,True
-Custard Powder ,kg,packet,1.0,95.0,Kitchen,,,0.0,room_temperature,False,,BUTTER FLY ,True,True
-Peanut ,kg,packet,1.0,91.64,Kitchen,,8.0,0.0,room_temperature,False,,,True,True
-Soya Bean Badi ,kg,packet,1.0,61.5,Kitchen,,10.0,0.0,room_temperature,False,,RUCHI ,True,True
-Moong Badi ,kg,packet,1.0,125.0,Kitchen,,4.0,0.0,room_temperature,False,,MAMTA ,True,True
-Magaj,kg,packet,1.0,465.0,Kitchen,,13.0,0.0,room_temperature,False,,ASHOK INDUSTRIES ,True,True
-Suji ,kg,packet,1.0,45.0,Kitchen,,20.0,0.0,room_temperature,False,,TAPARIA ,True,True
-Itli Rawa ,kg,packet,1.0,40.0,Kitchen,,13.0,0.0,room_temperature,False,,,True,True
-Imli ,kg,packet,1.0,125.0,Kitchen,,4.0,0.0,room_temperature,False,,,True,True
-Pani Puri  ,kg,packet,1.0,95.0,Kitchen,,,0.0,room_temperature,False,,AMAZING ,True,True
-Gulab Jamun Powder ,kg,packet,0.2,107.0,Kitchen,,,0.0,room_temperature,False,,GITS ,True,True
-Ajinomoto ,kg,packet,0.5,90.0,Kitchen,,0.5,0.0,room_temperature,False,,GOLDEN CROWN ,True,True
-Spaghetti ,kg,packet,0.5,65.0,Kitchen,,,0.0,room_temperature,False,,GOLDEN CROWN ,True,True
+Noodles ,kg,packet,0.8,56.25,Kitchen,,6.0,0.0,room_temperature,False,,GOLDEN CROWN ,True,True
+Vermicelli ,kg,packet,0.8,80.75,Kitchen,,6.0,0.0,room_temperature,False,,BAMBINO ,True,True
+White Dalia ,kg,packet,1.0,40.0,Kitchen,,5.0,0.0,room_temperature,False,,JAGDISH ,True,True
+Poha ,kg,packet,1.0,52.0,Kitchen,,8.0,0.0,room_temperature,False,,TAPARIA ,True,True
+Sev Mota ,kg,packet,1.0,200.0,Kitchen,,6.0,0.0,room_temperature,False,,,True,True
+Sev Barik ,kg,packet,1.0,210.0,Kitchen,,2.0,0.0,room_temperature,False,,,True,True
+Custard Powder ,kg,packet,1.0,95.0,Kitchen,,1.0,0.0,room_temperature,False,,BUTTER FLY ,True,True
+Peanut ,kg,packet,1.0,91.64,Kitchen,,7.0,0.0,room_temperature,False,,,True,True
+Soya Bean Badi ,kg,packet,1.0,61.5,Kitchen,,5.0,0.0,room_temperature,False,,RUCHI ,True,True
+Moong Badi ,kg,packet,1.0,125.0,Kitchen,,3.0,0.0,room_temperature,False,,MAMTA ,True,True
+Magaj,kg,packet,1.0,465.0,Kitchen,,7.0,0.0,room_temperature,False,,ASHOK INDUSTRIES ,True,True
+Suji ,kg,packet,1.0,45.0,Kitchen,,6.0,0.0,room_temperature,False,,TAPARIA ,True,True
+Itli Rawa ,kg,packet,1.0,40.0,Kitchen,,10.0,0.0,room_temperature,False,,,True,True
+Imli ,kg,packet,1.0,125.0,Kitchen,,3.0,0.0,room_temperature,False,,,True,True
+Pani Puri  ,kg,packet,1.0,95.0,Kitchen,,1.0,0.0,room_temperature,False,,AMAZING ,True,True
+Gulab Jamun Powder ,kg,packet,0.2,107.0,Kitchen,,13.0,0.0,room_temperature,False,,GITS ,True,True
+Ajinomoto ,kg,packet,0.5,90.0,Kitchen,,4.0,0.0,room_temperature,False,,GOLDEN CROWN ,True,True
+Spaghetti ,kg,packet,0.5,65.0,Kitchen,,5.0,0.0,room_temperature,False,,GOLDEN CROWN ,True,True
 Pasta Lasaniya,packet,packet,1.0,250.0,Kitchen,,,0.0,room_temperature,False,,,True,True
-Pasta Penne  ,packet,packet,1.0,120.0,Kitchen,,,0.0,room_temperature,False,,,True,True
+Pasta Penne  ,packet,packet,1.0,120.0,Kitchen,,8.0,0.0,room_temperature,False,,,True,True
 Pasta Macroni  ,packet,packet,1.0,83.61,Kitchen,,,0.0,room_temperature,False,,,True,True
 Pasta Penne  ,kg,packet,1.0,58.0,Kitchen,,,0.0,room_temperature,False,,ZILLI MILLI ,True,True
 Pasta Macroni  ,kg,packet,1.0,58.0,Kitchen,,,0.0,room_temperature,False,,ZILLI MILLI ,True,True
-Gur (Jaggery),kg,packet,1.0,42.97,Kitchen,,5.0,0.0,room_temperature,False,,,True,True
+Gur (Jaggery),kg,packet,1.0,42.97,Kitchen,,86.0,0.0,room_temperature,False,,,True,True
 Baking Powder ,kg,packet,0.4,48.14,Kitchen,,1.0,0.0,room_temperature,False,,WEIKFIELD ,True,True
-Murmura ,kg,packet,0.5,37.15,Kitchen,,,0.0,room_temperature,False,,,True,True
-Sabudana ,kg,packet,0.5,36.5,Kitchen,,6.0,0.0,room_temperature,False,,,True,True
+Murmura ,kg,packet,0.5,37.15,Kitchen,,3.0,0.0,room_temperature,False,,,True,True
+Sabudana ,kg,packet,0.5,36.5,Kitchen,,3.0,0.0,room_temperature,False,,,True,True
 Coffee Powder 500 Grm,packet,packet,1.0,1779.0,Kitchen,,,0.0,room_temperature,False,,,True,True
 Coffee Esspresso Blend ,kg,packet,1.0,1509.0,Kitchen,,,0.0,room_temperature,False,,,True,True
-Coffee,kg,packet,1.0,660.69,Kitchen,,1.0,0.0,room_temperature,False,,LAVAZZA,True,True
-Coffee ,kg,packet,1.0,1036.0,Kitchen,,,0.0,room_temperature,False,,TATA ,True,True
-Tea Lal Ghoda ,kg,packet,1.0,277.0,Kitchen,,7.0,0.0,room_temperature,False,,TATA ,True,True
+Coffee,kg,packet,1.0,660.69,Kitchen,,,0.0,room_temperature,False,,LAVAZZA,True,True
+Coffee ,kg,packet,1.0,1036.0,Kitchen,,0.4,0.0,room_temperature,False,,TATA ,True,True
+Tea Lal Ghoda ,kg,packet,1.0,277.0,Kitchen,,6.0,0.0,room_temperature,False,,TATA ,True,True
 Maggi ,packet,packet,1.0,310.0,Kitchen,,,0.0,room_temperature,False,,MAGGI ,True,True
-Khaman Dhokla ,packet,packet,1.0,195.0,Kitchen,,,0.0,room_temperature,False,,GANPATI ,True,True
+Khaman Dhokla ,packet,packet,1.0,195.0,Kitchen,,4.0,0.0,room_temperature,False,,GANPATI ,True,True
 Kaju Soora,kg,packet,1.0,450.0,Kitchen,,,0.0,room_temperature,False,,,True,True
-Kaju Tukda ,kg,packet,1.0,822.0,Kitchen,,,0.0,room_temperature,False,,,True,True
+Kaju Tukda ,kg,packet,1.0,822.0,Kitchen,,0.4,0.0,room_temperature,False,,,True,True
 Kaju Whole ,kg,packet,1.0,826.0,Kitchen,,,0.0,room_temperature,False,,,True,True
-Green Elaichi ,kg,packet,0.1,3200.0,Kitchen,,,0.0,room_temperature,False,,,True,True
+Green Elaichi ,kg,packet,0.1,3200.0,Kitchen,,0.1,0.0,room_temperature,False,,,True,True
 Coconut Water ,piece,individual,1.0,23.63,Kitchen,,,0.0,room_temperature,False,,,True,True
-Food Color ,can,can,1.0,80.0,Kitchen,,1.0,0.0,room_temperature,False,,BUSH ,True,True
+Food Color ,can,can,1.0,80.0,Kitchen,,,0.0,room_temperature,False,,BUSH ,True,True
 Bourn Vita ,kg,packet,1.0,410.0,Kitchen,,,0.0,room_temperature,False,,CADBURY ,True,True
-Garlic ,kg,packet,1.0,76.0,Kitchen,,28.0,0.0,room_temperature,False,,,True,True
-Green Peas ,kg,packet,5.0,450.0,Kitchen,,20.0,0.0,room_temperature,False,,,True,True
-French Fry ,kg,packet,2.5,310.0,Kitchen,,,0.0,room_temperature,False,,,True,True
-Saunf,kg,packet,1.0,345.71,Kitchen,,5.0,0.0,room_temperature,False,,,True,True
+Garlic ,kg,packet,1.0,76.0,Kitchen,,25.0,0.0,room_temperature,False,,,True,True
+Green Peas ,kg,packet,5.0,450.0,Kitchen,,25.0,0.0,room_temperature,False,,,True,True
+French Fry ,kg,packet,2.5,310.0,Kitchen,,5.0,0.0,room_temperature,False,,,True,True
+Saunf,kg,packet,1.0,345.71,Kitchen,,3.0,0.0,room_temperature,False,,,True,True
 French Fry ,kg,packet,3.0,396.0,Kitchen,,,0.0,room_temperature,False,,,True,True
-Corn Flakes ,packet,packet,1.0,54.8,Kitchen,,,0.0,room_temperature,False,,SHANTIS ,True,True
+Corn Flakes ,packet,packet,1.0,54.8,Kitchen,,12.0,0.0,room_temperature,False,,SHANTIS ,True,True
 Honey ,liter,bottle,1.0,343.0,Kitchen,,,0.0,room_temperature,False,,PATANJALI ,True,True
-American Corn ,packet,packet,1.0,75.0,Kitchen,,8.0,0.0,room_temperature,False,,FRESH O GREEN ,True,True
+American Corn ,packet,packet,1.0,75.0,Kitchen,,2.0,0.0,room_temperature,False,,FRESH O GREEN ,True,True
 Chilli Flakes ,kg,packet,1.0,400.0,Kitchen,,,0.0,room_temperature,False,,VIVA ,True,True
-Oregano ,kg,packet,1.0,350.0,Kitchen,,,0.0,room_temperature,False,,VIVA,True,True
-Laung (Clove) ,kg,packet,1.0,825.0,Kitchen,,,0.0,room_temperature,False,,,True,True
+Oregano ,kg,packet,1.0,350.0,Kitchen,,1.0,0.0,room_temperature,False,,VIVA,True,True
+Laung (Clove) ,kg,packet,1.0,825.0,Kitchen,,2.0,0.0,room_temperature,False,,,True,True
 Tutit Frutti,kg,packet,0.4,33.0,Kitchen,,,0.0,room_temperature,False,,,True,True
 Choco Flakes ,packet,packet,1.0,115.15,Kitchen,,,0.0,room_temperature,False,,SHANTIS,True,True
-Tooth Pick,liter,bottle,0.05,8.8,Kitchen,,,0.0,room_temperature,False,,SILVER,True,True
+Tooth Pick,liter,bottle,0.05,8.8,Kitchen,,1.0,0.0,room_temperature,False,,SILVER,True,True
 Tahina Paste 1Kg,can,can,1.0,890.0,Kitchen,,,0.0,room_temperature,False,,,True,True
 Amsur Powder,kg,packet,1.0,194.95,Kitchen,,,0.0,room_temperature,False,,,True,True
 Baked Beans 440Gm,kg,packet,0.44,46.2,Kitchen,,,0.0,room_temperature,False,,,True,True
@@ -301,11 +301,11 @@ Ker,kg,packet,1.0,932.0,Kitchen,,,0.0,room_temperature,False,,,True,True
 Sangari,kg,packet,1.0,798.0,Kitchen,,,0.0,room_temperature,False,,,True,True
 Kery Pudina,liter,bottle,1.0,242.25,Kitchen,,,0.0,room_temperature,False,,,True,True
 Kesar,packet,packet,1.0,128.0,Kitchen,,,0.0,room_temperature,False,,,True,True
-White Til,packet,packet,1.0,72.0,Kitchen,,,0.0,room_temperature,False,,,True,True
+White Til,packet,packet,1.0,72.0,Kitchen,,1.0,0.0,room_temperature,False,,,True,True
 Tea Bags Pouch 100,packet,packet,1.0,1.6,Room_supply,,,0.0,room_temperature,False,,TETLEY ,True,True
 Tea Bags Pouch 200,packet,packet,1.0,305.0,Room_supply,,,0.0,room_temperature,False,,TETLEY ,True,True
 Green Bags Pouch 25,packet,packet,1.0,161.5,Room_supply,,,0.0,room_temperature,False,,TETLEY ,True,True
-Coffee Pouch 144,packet,packet,1.0,267.84,Room_supply,,,0.0,room_temperature,False,,NESCAFE ,True,True
+Coffee Pouch 144,packet,packet,1.0,267.84,Room_supply,,1.0,0.0,room_temperature,False,,NESCAFE ,True,True
 Milk Powder Pouch 120,packet,packet,1.0,364.0,Room_supply,,,0.0,room_temperature,False,,AMUL ,True,True
 Milk Powder Pouch 150,packet,packet,1.0,375.0,Room_supply,,,0.0,room_temperature,False,,EVERY DAY ,True,True
 Sugar Pouch 200,packet,packet,1.0,115.5,Room_supply,,,0.0,room_temperature,False,,JYOT ,True,True
@@ -325,117 +325,117 @@ Disposal Bag ,packet,packet,1.0,7.0,Room_supply,,,0.0,room_temperature,False,,,T
 Chocolate Box,packet,packet,1.0,98.0,Room_supply,,,0.0,room_temperature,False,,,True,True
 Oregano Spice Mix Schet,packet,packet,1.0,120.0,Room_supply,,,0.0,room_temperature,False,,,True,True
 9 V Battery,piece,individual,1.0,180.0,House_keeping,,,0.0,room_temperature,False,,,True,True
-Aa Cell,piece,individual,1.0,5.5,House_keeping,,6.0,0.0,room_temperature,False,,,True,True
-Aa Duro Cell,piece,individual,1.0,36.39,House_keeping,,6.0,0.0,room_temperature,False,,,True,True
-Aaa Cell,piece,individual,1.0,5.0,House_keeping,,,0.0,room_temperature,False,,,True,True
+Aa Cell,piece,individual,1.0,5.5,House_keeping,,10.0,0.0,room_temperature,False,,,True,True
+Aa Duro Cell,piece,individual,1.0,36.39,House_keeping,,,0.0,room_temperature,False,,,True,True
+Aaa Cell,piece,individual,1.0,5.0,House_keeping,,5.0,0.0,room_temperature,False,,,True,True
 Agarbatti,packet,packet,1.0,40.0,House_keeping,,,0.0,room_temperature,False,,,True,True
-All Out Machine,piece,individual,1.0,80.0,House_keeping,,,0.0,room_temperature,False,,,True,True
+All Out Machine,piece,individual,1.0,80.0,House_keeping,,1.0,0.0,room_temperature,False,,,True,True
 All Out Refil,piece,individual,1.0,55.0,House_keeping,,,0.0,room_temperature,False,,,True,True
 All Purpose Kit,piece,individual,1.0,3.54,House_keeping,,,0.0,room_temperature,False,,,True,True
 Bleaching Powder,kg,packet,0.001,51.0,House_keeping,,,0.0,room_temperature,False,,,True,True
 Body Wash,piece,individual,1.0,8.85,House_keeping,,,0.0,room_temperature,False,,,True,True
 Bodywash ,liter,bottle,5.0,180.09,House_keeping,,,0.0,room_temperature,False,,,True,True
-Broom Danda,piece,individual,1.0,428.57,House_keeping,,2.0,0.0,room_temperature,False,,,True,True
-Broom Phool,piece,individual,1.0,70.0,House_keeping,,4.0,0.0,room_temperature,False,,,True,True
+Broom Danda,piece,individual,1.0,428.57,House_keeping,,,0.0,room_temperature,False,,,True,True
+Broom Phool,piece,individual,1.0,70.0,House_keeping,,,0.0,room_temperature,False,,,True,True
 Comb,piece,individual,1.0,5.12,House_keeping,,,0.0,room_temperature,False,,,True,True
 Coster,piece,individual,1.0,1.7,House_keeping,,,0.0,room_temperature,False,,,True,True
-Cottan Siliper,pair,pair,1.0,30.54,House_keeping,,,0.0,room_temperature,False,,,True,True
+Cottan Siliper,pair,pair,1.0,30.54,House_keeping,,1.0,0.0,room_temperature,False,,,True,True
 Coular Patti,piece,individual,1.0,70.0,House_keeping,,,0.0,room_temperature,False,,,True,True
 Dental Kit,piece,individual,1.0,10.58,House_keeping,,,0.0,room_temperature,False,,,True,True
 Dettol Soap,piece,individual,1.0,8.89,House_keeping,,,0.0,room_temperature,False,,,True,True
-Dhaga,packet,individual,1.0,80.0,House_keeping,,,0.0,room_temperature,False,,,True,True
+Dhaga,packet,individual,1.0,80.0,House_keeping,,1.0,0.0,room_temperature,False,,,True,True
 Dnd Card,piece,individual,1.0,10.03,House_keeping,,,0.0,room_temperature,False,,,True,True
 Drawing Pin1*10Nos,packet,packet,1.0,110.25,House_keeping,,,0.0,room_temperature,False,,,True,True
 Dry Mop,piece,individual,1.0,220.8,House_keeping,,,0.0,room_temperature,False,,,True,True
 Duro D2 Cell,piece,individual,1.0,162.5,House_keeping,,,0.0,room_temperature,False,,,True,True
 Dustbin 120 Ltr,piece,individual,1.0,2250.0,House_keeping,,,0.0,room_temperature,False,,,True,True
-Duster White,piece,individual,1.0,11.3,House_keeping,,6.0,0.0,room_temperature,False,,,True,True
+Duster White,piece,individual,1.0,11.3,House_keeping,,,0.0,room_temperature,False,,,True,True
 Electric Bat,piece,individual,1.0,475.0,House_keeping,,,0.0,room_temperature,False,,,True,True
 Exl Bar Soap ,piece,individual,1.0,8.71,House_keeping,,,0.0,room_temperature,False,,,True,True
-Finayal,liter,bottle,5.0,27.14,House_keeping,,5.0,0.0,room_temperature,False,,,True,True
-Garbege Bags  ( All ),kg,packet,1.0,123.9,House_keeping,,30.0,0.0,room_temperature,False,,,True,True
+Finayal,liter,bottle,5.0,27.14,House_keeping,,2.0,0.0,room_temperature,False,,,True,True
+Garbege Bags  ( All ),kg,packet,1.0,123.9,House_keeping,,,0.0,room_temperature,False,,,True,True
 Hair Oil,packet,individual,1.0,85.0,House_keeping,,,0.0,room_temperature,False,,,True,True
 Hand Gloves ,packet,individual,1.0,27.97,House_keeping,,,0.0,room_temperature,False,,,True,True
-Handwash ,liter,bottle,5.0,180.09,House_keeping,,15.0,0.0,room_temperature,False,,,True,True
+Handwash ,liter,bottle,5.0,180.09,House_keeping,,4.0,0.0,room_temperature,False,,,True,True
 Handwash ,liter,bottle,5.0,36.0,House_keeping,,,0.0,room_temperature,False,,,True,True
-Kapoor Goli,packet,individual,1.0,116.0,House_keeping,,,0.0,room_temperature,False,,,True,True
+Kapoor Goli,packet,individual,1.0,116.0,House_keeping,,0.4,0.0,room_temperature,False,,,True,True
 Ker Kit,piece,individual,1.0,5.8,House_keeping,,,0.0,room_temperature,False,,,True,True
 Kot Roll,liter,roll,0.001,65.0,House_keeping,,,0.0,room_temperature,False,,,True,True
 Lakej Tag,piece,individual,1.0,2.12,House_keeping,,,0.0,room_temperature,False,,,True,True
-Laundry Bag Site,piece,individual,1.0,30.0,House_keeping,,,0.0,room_temperature,False,,,True,True
+Laundry Bag Site,piece,individual,1.0,30.0,House_keeping,,10.0,0.0,room_temperature,False,,,True,True
 Laundry Bag H.K.I,piece,individual,1.0,9.44,House_keeping,,,0.0,room_temperature,False,,,True,True
 Lemon Soap With Ki Logo,piece,individual,1.0,4.72,House_keeping,,,0.0,room_temperature,False,,,True,True
-Lock,piece,individual,1.0,30.0,House_keeping,,,0.0,room_temperature,False,,,True,True
-Lux Soap,piece,individual,1.0,8.51,House_keeping,,70.0,0.0,room_temperature,False,,,True,True
+Lock,piece,individual,1.0,30.0,House_keeping,,1.0,0.0,room_temperature,False,,,True,True
+Lux Soap,piece,individual,1.0,8.51,House_keeping,,110.0,0.0,room_temperature,False,,,True,True
 Match Pc,piece,individual,1.0,0.75,House_keeping,,,0.0,room_temperature,False,,,True,True
-Odonil,piece,individual,1.0,25.51,House_keeping,,10.0,0.0,room_temperature,False,,,True,True
+Odonil,piece,individual,1.0,25.51,House_keeping,,4.0,0.0,room_temperature,False,,,True,True
 Pci Hit,piece,individual,1.0,115.69,House_keeping,,,0.0,room_temperature,False,,,True,True
-Pears Soap ,piece,individual,1.0,19.62,House_keeping,,,0.0,room_temperature,False,,,True,True
+Pears Soap ,piece,individual,1.0,19.62,House_keeping,,30.0,0.0,room_temperature,False,,,True,True
 Reva Sense 5Ltr,liter,bottle,5.0,165.2,House_keeping,,,0.0,room_temperature,False,,,True,True
 Ring Rabar,kg,packet,1.0,200.0,House_keeping,,,0.0,room_temperature,False,,,True,True
-Room Spray,piece,individual,1.0,114.13,House_keeping,,2.0,0.0,room_temperature,False,,,True,True
+Room Spray,piece,individual,1.0,114.13,House_keeping,,1.0,0.0,room_temperature,False,,,True,True
 Shampoo ,liter,bottle,0.38,152.57,House_keeping,,,0.0,room_temperature,False,,,True,True
 Shampoo ,liter,bottle,5.0,180.09,House_keeping,,,0.0,room_temperature,False,,,True,True
-Shampoo Clinic Plus ,pouch,pouch,1.0,0.73,House_keeping,,,0.0,room_temperature,False,,,True,True
+Shampoo Clinic Plus ,pouch,pouch,1.0,0.73,House_keeping,,15.0,0.0,room_temperature,False,,,True,True
 Shaving Kit (Razor & Cream),packet,packet,1.0,13.57,House_keeping,,,0.0,room_temperature,False,,,True,True
 Dental Kit (Paste & Brush),packet,packet,1.0,11.8,House_keeping,,,0.0,room_temperature,False,,,True,True
 Shoe Shine,piece,individual,1.0,6.49,House_keeping,,,0.0,room_temperature,False,,,True,True
 Shower Cap,packet,packet,1.0,4.53,House_keeping,,,0.0,room_temperature,False,,,True,True
 Skin Lotion ,liter,bottle,5.0,180.09,House_keeping,,,0.0,room_temperature,False,,,True,True
 Steel Wool Roll ,liter,roll,5.0,1416.0,House_keeping,,,0.0,room_temperature,False,,,True,True
-Stick Mop,piece,individual,1.0,153.4,House_keeping,,,0.0,room_temperature,False,,,True,True
+Stick Mop,piece,individual,1.0,153.4,House_keeping,,2.0,0.0,room_temperature,False,,,True,True
 Su Shayner,piece,individual,1.0,6.49,House_keeping,,,0.0,room_temperature,False,,,True,True
-Surf Excel ,kg,packet,1.0,118.47,House_keeping,,15.0,0.0,room_temperature,False,,,True,True
+Surf Excel ,kg,packet,1.0,118.47,House_keeping,,7.0,0.0,room_temperature,False,,,True,True
 Surf Excel ,packet,individual,1.0,80.97,House_keeping,,,0.0,room_temperature,False,,,True,True
 Surf Excel ,packet,individual,1.0,58.0,House_keeping,,,0.0,room_temperature,False,,,True,True
 Taski Emrail,can,can,1.0,157.88,House_keeping,,,0.0,room_temperature,False,,,True,True
 Taski H 100,can,can,1.0,187.85,House_keeping,,,0.0,room_temperature,False,,,True,True
 Taski Machine Paid,piece,individual,1.0,491.33,House_keeping,,,0.0,room_temperature,False,,,True,True
 Taski Nobile Plus,can,can,1.0,1825.46,House_keeping,,,0.0,room_temperature,False,,,True,True
-Taski R-1,piece,can,1.0,215.48,House_keeping,,,0.0,room_temperature,False,,,True,True
+Taski R-1,piece,can,1.0,215.48,House_keeping,,1.0,0.0,room_temperature,False,,,True,True
 Taski R-2,piece,can,1.0,182.39,House_keeping,,,0.0,room_temperature,False,,,True,True
-Taski R-3,piece,can,1.0,249.03,House_keeping,,,0.0,room_temperature,False,,,True,True
+Taski R-3,piece,can,1.0,249.03,House_keeping,,0.2,0.0,room_temperature,False,,,True,True
 Taski R-4,piece,can,1.0,349.23,House_keeping,,,0.0,room_temperature,False,,,True,True
-Taski R-5,piece,can,1.0,183.48,House_keeping,,2.0,0.0,room_temperature,False,,,True,True
-Taski R-6,piece,can,1.0,130.11,House_keeping,,10.0,0.0,room_temperature,False,,,True,True
-Taski R-7,piece,can,1.0,100.84,House_keeping,,3.0,0.0,room_temperature,False,,,True,True
+Taski R-5,piece,can,1.0,183.48,House_keeping,,1.0,0.0,room_temperature,False,,,True,True
+Taski R-6,piece,can,1.0,130.11,House_keeping,,2.5,0.0,room_temperature,False,,,True,True
+Taski R-7,piece,can,1.0,100.84,House_keeping,,1.0,0.0,room_temperature,False,,,True,True
 Taski R-9,piece,can,1.0,190.72,House_keeping,,,0.0,room_temperature,False,,,True,True
 Taski R6 500Ml,piece,individual,1.0,63.23,House_keeping,,,0.0,room_temperature,False,,,True,True
-Taski Suma D7.1,liter,bottle,5.0,298.17,House_keeping,,5.0,0.0,room_temperature,False,,,True,True
+Taski Suma D7.1,liter,bottle,5.0,298.17,House_keeping,,,0.0,room_temperature,False,,,True,True
 Taski Suma Drain,piece,can,1.0,159.35,House_keeping,,,0.0,room_temperature,False,,,True,True
-Taski Suma Grill D9,liter,bottle,5.0,284.84,House_keeping,,5.0,0.0,room_temperature,False,,,True,True
+Taski Suma Grill D9,liter,bottle,5.0,284.84,House_keeping,,,0.0,room_temperature,False,,,True,True
 Taski Suma Multi,liter,bottle,5.0,96.68,House_keeping,,,0.0,room_temperature,False,,,True,True
 Taski Suma Select ,liter,bottle,0.025,417.34,House_keeping,,,0.0,room_temperature,False,,,True,True
 Taski Suma Ultra,liter,bottle,5.0,517.9,House_keeping,,,0.0,room_temperature,False,,,True,True
 Taski Terranova,liter,bottle,0.001,437.42,House_keeping,,,0.0,room_temperature,False,,,True,True
-Taski Urinal Screen,piece,individual,1.0,448.06,House_keeping,,2.0,0.0,room_temperature,False,,,True,True
-Scrub Pad,packet,individual,1.0,23.0,House_keeping,,12.0,0.0,room_temperature,False,,,True,True
-Taski Suma Date,piece,can,1.0,128.27,House_keeping,,35.0,0.0,room_temperature,False,,,True,True
+Taski Urinal Screen,piece,individual,1.0,448.06,House_keeping,,,0.0,room_temperature,False,,,True,True
+Scrub Pad,packet,individual,1.0,23.0,House_keeping,,,0.0,room_temperature,False,,,True,True
+Taski Suma Date,piece,can,1.0,128.27,House_keeping,,30.0,0.0,room_temperature,False,,,True,True
 Wc- Band,piece,individual,1.0,0.71,House_keeping,,,0.0,room_temperature,False,,,True,True
-Wipper Big,piece,individual,1.0,177.0,House_keeping,,2.0,0.0,room_temperature,False,,,True,True
-Wipper Small,piece,individual,1.0,141.6,House_keeping,,3.0,0.0,room_temperature,False,,,True,True
-W/C Brush,piece,individual,1.0,88.84,House_keeping,,2.0,0.0,room_temperature,False,,,True,True
+Wipper Big,piece,individual,1.0,177.0,House_keeping,,1.0,0.0,room_temperature,False,,,True,True
+Wipper Small,piece,individual,1.0,141.6,House_keeping,,2.0,0.0,room_temperature,False,,,True,True
+W/C Brush,piece,individual,1.0,88.84,House_keeping,,1.0,0.0,room_temperature,False,,,True,True
 Taski Suma Dip -K1,liter,bottle,5.0,204.93,House_keeping,,,0.0,room_temperature,False,,,True,True
 Vim Bar,packet,individual,1.0,9.35,House_keeping,,,0.0,room_temperature,False,,,True,True
 Wc Bend ,packet,packet,1.0,0.82,House_keeping,,,0.0,room_temperature,False,,,True,True
-Caustic Powder,kg,packet,0.001,52.41,House_keeping,,5.0,0.0,room_temperature,False,,,True,True
+Caustic Powder,kg,packet,0.001,52.41,House_keeping,,14.0,0.0,room_temperature,False,,,True,True
 Taski 100 L Crystal,kg,packet,0.001,274.27,House_keeping,,,0.0,room_temperature,False,,,True,True
 Taski Action Powder,kg,packet,0.001,314.7,House_keeping,,,0.0,room_temperature,False,,,True,True
 Taski Extra Soft,can,can,1.0,250.0,House_keeping,,,0.0,room_temperature,False,,,True,True
-Taski Hypo,liter,bottle,0.05,65.07,House_keeping,,14.0,0.0,room_temperature,False,,,True,True
+Taski Hypo,liter,bottle,0.05,65.07,House_keeping,,7.0,0.0,room_temperature,False,,,True,True
 Taski Suprime Powder,kg,packet,0.025,248.43,House_keeping,,,0.0,room_temperature,False,,,True,True
-Taski-200S,can,can,1.0,592.7,House_keeping,,2.0,0.0,room_temperature,False,,,True,True
+Taski-200S,can,can,1.0,592.7,House_keeping,,1.0,0.0,room_temperature,False,,,True,True
 Butter Paper Roll,liter,roll,0.001,155.0,Disposal,,,0.0,room_temperature,False,,,True,True
-C Fold Paper ,packet,packet,1.0,34.0,Disposal,,,0.0,room_temperature,False,,,True,True
-Napkin Paper ,packet,packet,1.0,23.77,Disposal,,110.0,0.0,room_temperature,False,,,True,True
+C Fold Paper ,packet,packet,1.0,34.0,Disposal,,35.0,0.0,room_temperature,False,,,True,True
+Napkin Paper ,packet,packet,1.0,23.77,Disposal,,80.0,0.0,room_temperature,False,,,True,True
 Tissue Paper ,packet,packet,1.0,23.0,Disposal,,,0.0,room_temperature,False,,,True,True
 Tissue Roll ,liter,roll,0.001,1563.0,Disposal,,,0.0,room_temperature,False,,,True,True
 Tissue Box ,box,box,1.0,31.86,Disposal,,,0.0,room_temperature,False,,,True,True
-Toilet Roll ,liter,roll,0.001,7.25,Disposal,,,0.0,room_temperature,False,,,True,True
+Toilet Roll ,liter,roll,0.001,7.25,Disposal,,15.0,0.0,room_temperature,False,,,True,True
 Straw Pipe ,packet,packet,1.0,33.62,Disposal,,,0.0,room_temperature,False,,,True,True
 Stick Strier ,packet,packet,1.0,45.0,Disposal,,,0.0,room_temperature,False,,,True,True
-Silver Foil ,liter,roll,0.001,351.0,Disposal,,4.0,0.0,room_temperature,False,,,True,True
-Clean Foil ,liter,roll,0.001,269.0,Disposal,,10.0,0.0,room_temperature,False,,,True,True
+Silver Foil ,liter,roll,0.001,351.0,Disposal,,8.0,0.0,room_temperature,False,,,True,True
+Clean Foil ,liter,roll,0.001,269.0,Disposal,,25.0,0.0,room_temperature,False,,,True,True
 Disposal Paper Glass ,packet,packet,1.0,28.5,Disposal,,,0.0,room_temperature,False,,,True,True
 Disposal Tea Cup ,packet,packet,1.0,13.27,Disposal,,,0.0,room_temperature,False,,,True,True
 Disposal Water Glass ,packet,packet,1.0,35.0,Disposal,,,0.0,room_temperature,False,,,True,True
@@ -451,9 +451,9 @@ Container Black 650 Ml ,piece,individual,1.0,7.38,Disposal,,,0.0,room_temperatur
 Container Black 250 Ml ,piece,individual,1.0,2.46,Disposal,,,0.0,room_temperature,False,,,True,True
 Container Black 100 Ml ,piece,individual,1.0,2.24,Disposal,,,0.0,room_temperature,False,,,True,True
 Plastic Carry Bag 1 Kg ,kg,packet,0.001,280.0,Disposal,,,0.0,room_temperature,False,,,True,True
-Cap Kitchen  ,packet,packet,1.0,46.2,Disposal,,5.0,0.0,room_temperature,False,,,True,True
-Food Sample Pouch ,packet,packet,1.0,30.0,Disposal,,3.0,0.0,room_temperature,False,,,True,True
-Service Hand Gloves ,packet,packet,1.0,33.0,Disposal,,5.0,0.0,room_temperature,False,,,True,True
+Cap Kitchen  ,packet,packet,1.0,46.2,Disposal,,3.0,0.0,room_temperature,False,,,True,True
+Food Sample Pouch ,packet,packet,1.0,30.0,Disposal,,1.0,0.0,room_temperature,False,,,True,True
+Service Hand Gloves ,packet,packet,1.0,33.0,Disposal,,3.0,0.0,room_temperature,False,,,True,True
 Packing Roll ,liter,roll,0.001,240.0,Disposal,,,0.0,room_temperature,False,,,True,True
 Silver Bag 6*8,packet,packet,1.0,90.0,Disposal,,,0.0,room_temperature,False,,,True,True
 Silver Bag 8*10 ,packet,packet,1.0,100.0,Disposal,,,,,,,,,
@@ -492,29 +492,29 @@ Challan Book Small,piece,individual,1.0,39.53,Stationery,,,,,,,,,
 Clip Band,piece,individual,1.0,3.0,Stationery,,,,,,,,,
 Dori File,piece,individual,1.0,10.0,Stationery,,,,,,,,,
 Driver Long Book,piece,individual,1.0,55.0,Stationery,,,,,,,,,
-Duplicate Book,piece,individual,1.0,20.91,Stationery,,,,,,,,,
+Duplicate Book,piece,individual,1.0,20.91,Stationery,,7.0,,,,,,,
 Fevistick,piece,individual,1.0,24.09,Stationery,,,,,,,,,
 File Box Big,piece,individual,1.0,85.0,Stationery,,,,,,,,,
 File Mini,piece,individual,1.0,60.0,Stationery,,,,,,,,,
 File Voucher,piece,individual,1.0,12.0,Stationery,,,,,,,,,
-Gate Pass Book,piece,individual,1.0,121.0,Stationery,,2.0,,,,,,,
+Gate Pass Book,piece,individual,1.0,121.0,Stationery,,1.0,,,,,,,
 Guest Key Pocket,piece,individual,1.0,2.9,Stationery,,,,,,,,,
 Highlighter,piece,individual,1.0,24.55,Stationery,,,,,,,,,
 L Folder,piece,individual,1.0,8.0,Stationery,,,,,,,,,
 Latter Paid Hki,piece,individual,1.0,1.87,Stationery,,,,,,,,,
 Lifafa All,piece,individual,1.0,1.99,Stationery,,,,,,,,,
 Machine Stepler,piece,individual,1.0,30.0,Stationery,,,,,,,,,
-Marker Big Parmanet,piece,individual,1.0,13.21,Stationery,,18.0,,,,,,,
-Marker Small Parmanet,piece,individual,1.0,8.23,Stationery,,14.0,,,,,,,
-Marker White Bord Marker,piece,individual,1.0,17.66,Stationery,,3.0,,,,,,,
+Marker Big Parmanet,piece,individual,1.0,13.21,Stationery,,2.0,,,,,,,
+Marker Small Parmanet,piece,individual,1.0,8.23,Stationery,,2.0,,,,,,,
+Marker White Bord Marker,piece,individual,1.0,17.66,Stationery,,,,,,,,,
 Paper Rin A4,packet,packet,1.0,231.6,Stationery,,,,,,,,,
-Pen,piece,individual,1.0,2.76,Stationery,,20.0,,,,,,,
+Pen,piece,individual,1.0,2.76,Stationery,,,,,,,,,
 Pen Unibull,piece,individual,1.0,80.0,Stationery,,,,,,,,,
 Pencel,piece,individual,1.0,4.43,Stationery,,,,,,,,,
 Purchase Book,piece,individual,1.0,70.0,Stationery,,,,,,,,,
-Ragister,piece,individual,1.0,102.06,Stationery,,1.0,,,,,,,
-Ragister Attendence,piece,individual,1.0,102.26,Stationery,,1.0,,,,,,,
-Ragister Daily Stock,piece,individual,1.0,368.97,Stationery,,2.0,,,,,,,
+Ragister,piece,individual,1.0,102.06,Stationery,,,,,,,,,
+Ragister Attendence,piece,individual,1.0,102.26,Stationery,,,,,,,,,
+Ragister Daily Stock,piece,individual,1.0,368.97,Stationery,,,,,,,,,
 Ragister Duty Allotment,piece,individual,1.0,220.0,Stationery,,,,,,,,,
 Ragister Entery,piece,individual,1.0,588.0,Stationery,,,,,,,,,
 Ragister Floor Sectiction,piece,individual,1.0,119.0,Stationery,,,,,,,,,
@@ -531,17 +531,17 @@ Steaker,packet,packet,1.0,25.0,Stationery,,,,,,,,,
 Stepler Pin Big,piece,individual,1.0,15.96,Stationery,,,,,,,,,
 Stepler Pin Small,piece,individual,1.0,9.93,Stationery,,,,,,,,,
 "Store Book
-Store Book",piece,individual,1.0,199.0,Stationery,,2.0,,,,,,,
-Vegetable Book,piece,individual,1.0,175.0,Stationery,,1.0,,,,,,,
+Store Book",piece,individual,1.0,199.0,Stationery,,1.0,,,,,,,
+Vegetable Book,piece,individual,1.0,175.0,Stationery,,,,,,,,,
 Visitor Gate Pass Book,piece,individual,1.0,99.17,Stationery,,,,,,,,,
 Voucher Cash Jama,piece,individual,1.0,48.53,Stationery,,,,,,,,,
 Voucher Cash Payment,piece,individual,1.0,48.39,Stationery,,,,,,,,,
 Voucher Salary,piece,individual,1.0,63.64,Stationery,,,,,,,,,
 Whitener,piece,individual,1.0,17.83,Stationery,,,,,,,,,
 Gas ,piece,tank,1.0,1900.0,Gas,,30.0,,,,,,,
-Water Jar,jar,jar,1.0,25.0,Water_jar,,,,,,,,,
+Water Jar,jar,jar,1.0,25.0,Water_jar,,250.0,,,,,,,
 Coal Wooden,piece,can,1.0,35.0,Coal,,,,,,,,,
-Coal Stone,piece,can,1.0,28.0,Coal,,,,,,,,,
+Coal Stone,piece,can,1.0,28.0,Coal,,140.0,,,,,,,
 Caramel Syrup ,liter,individual,1.0,770.0,Syrup,,,,,,,MTSR,,
 Chocolate Syrup ,liter,individual,0.7,760.0,Syrup,,,,,,,MTSR,,
 Cinnamon Syrup ,liter,individual,1.0,860.0,Syrup,,,,,,,MTSR,,
@@ -634,3 +634,123 @@ Bolo Paper Cups,piece,individual,1.0,9.99,Disposal,,,,,,,,,
 Small Dream Tin,packet,packet,1.0,30.0,Disposal,,,,,,,,,
 Square Food Container (50),packet,packet,1.0,920.0,Disposal,,,,,,,,,
 Triangle Pastry Box,packet,packet,1.0,949.99,Disposal,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
+,piece,can,1.0,,,,,,,,,,,
